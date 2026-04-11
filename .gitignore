@@ -25,3 +25,5 @@ channels_out.json
 settings.json
 debug_screenshots/
 mediaset_best/
+
+!.env.example
