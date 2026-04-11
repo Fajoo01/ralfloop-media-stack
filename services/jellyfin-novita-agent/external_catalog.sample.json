@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Dune: Part Two",
+    "kind": "movie",
+    "genres": ["Sci-Fi", "Adventure"],
+    "franchise": "Dune"
+  },
+  {
+    "title": "Foundation - S2",
+    "kind": "series",
+    "genres": ["Sci-Fi", "Drama"],
+    "franchise": "Foundation"
+  },
+  {
+    "title": "Silo - S2",
+    "kind": "series",
+    "genres": ["Sci-Fi", "Thriller"],
+    "franchise": "Silo"
+  },
+  {
+    "title": "The Last of Us - S2",
+    "kind": "series",
+    "genres": ["Drama", "Sci-Fi"],
+    "franchise": "The Last of Us"
+  },
+  {
+    "title": "Severance - S2",
+    "kind": "series",
+    "genres": ["Sci-Fi", "Thriller"],
+    "franchise": "Severance"
+  },
+  {
+    "title": "Fallout - S2",
+    "kind": "series",
+    "genres": ["Sci-Fi", "Action"],
+    "franchise": "Fallout"
+  },
+  {
+    "title": "Mickey 17",
+    "kind": "movie",
+    "genres": ["Sci-Fi", "Drama"],
+    "franchise": null
+  },
+  {
+    "title": "Blade Runner 2099",
+    "kind": "series",
+    "genres": ["Sci-Fi", "Thriller"],
+    "franchise": "Blade Runner"
+  }
+]

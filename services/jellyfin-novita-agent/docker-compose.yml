@@ -1,0 +1,24 @@
+services:
+  jellyfin-novita-backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: jellyfin-novita-backend
+    network_mode: host
+    working_dir: /app
+    command: uvicorn jellyfin_novita_backend:app --host 0.0.0.0 --port 9079
+    volumes:
+      - ./:/app
+      - ${HOME}/jellyfin-novita-agent:${HOME}/jellyfin-novita-agent
+    restart: unless-stopped
+
+  jellyfin-novita-gui:
+    image: python:3.11-slim
+    container_name: jellyfin-novita-gui
+    working_dir: /app/gui
+    command: python3 -m http.server 9088 --bind 0.0.0.0
+    volumes:
+      - ./gui:/app/gui:ro
+    ports:
+      - "127.0.0.1:9088:9088"
+    restart: unless-stopped

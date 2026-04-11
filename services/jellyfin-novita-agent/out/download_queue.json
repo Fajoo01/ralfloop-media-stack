@@ -1,0 +1,46 @@
+[
+  {
+    "candidate_id": "series::Strike::6",
+    "kind": "series",
+    "title": "Strike",
+    "season_number": 6,
+    "score": -64.65,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 17.5,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 52.5,
+      "multiuser_bonus": 2.0,
+      "director_score": 0.0,
+      "writer_score": 0.0,
+      "cast_score": 0.0,
+      "matched_directors": [],
+      "matched_writers": [],
+      "matched_cast": [],
+      "manual_director_bonus": 0.0,
+      "manual_writer_bonus": 0.0,
+      "manual_actor_bonus": 0.0,
+      "bucket": "continuation",
+      "bucket_bonus": 12.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma",
+        "Giallo",
+        "Poliziesco"
+      ],
+      "franchise": "Strike",
+      "base_franchise": "strike",
+      "queue_promote": "followed_series_first_available",
+      "episodes_watched": 7,
+      "max_season_watched": 5,
+      "peppule_start_episode": 1,
+      "peppule_max_episodes": 4
+    },
+    "already_present": false,
+    "decision": "auto_download"
+  }
+]

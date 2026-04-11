@@ -1,0 +1,47 @@
+{
+  "include_titles": [
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "priority": 5
+    },
+    {
+      "title": "Zodiac",
+      "year": 2007,
+      "priority": 5
+    },
+    {
+      "title": "Children of Men",
+      "year": 2006,
+      "priority": 4
+    },
+    {
+      "title": "Sicario",
+      "year": 2015,
+      "priority": 4
+    },
+    {
+      "title": "Gone Girl",
+      "year": 2014,
+      "priority": 4
+    },
+    {
+      "title": "Nightcrawler",
+      "year": 2014,
+      "priority": 4
+    }
+  ],
+  "genres": [
+    "Crime",
+    "Thriller",
+    "Mistero",
+    "Sci-Fi",
+    "Dramma"
+  ],
+  "min_year": null,
+  "max_year": 2023,
+  "min_vote_count": 300,
+  "pages_discover": 1,
+  "pages_top_rated": 1,
+  "pages_popular": 1
+}

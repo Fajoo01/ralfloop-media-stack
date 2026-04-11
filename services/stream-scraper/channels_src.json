@@ -1,0 +1,348 @@
+{
+  "channels": [
+    {
+      "id": "Rai1",
+      "name": "Rai 1",
+      "group": "Rai",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png",
+      "type": "hls",
+      "source_page": "https://www.raiplay.it/dirette/rai1"
+    },
+    {
+      "id": "Rai2",
+      "name": "Rai 2",
+      "group": "Rai",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png",
+      "type": "hls",
+      "source_page": "https://www.raiplay.it/dirette/rai2"
+    },
+    {
+      "id": "Rai3",
+      "name": "Rai 3",
+      "group": "Rai",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png",
+      "type": "hls",
+      "source_page": "https://www.raiplay.it/dirette/rai3"
+    },
+    {
+      "id": "Rete4",
+      "name": "Rete 4",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/rete4_cR4"
+    },
+    {
+      "id": "Canale5",
+      "name": "Canale 5",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/canale5_cC5"
+    },
+    {
+      "id": "Italia1",
+      "name": "Italia 1",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/italia1_cI1"
+    },
+    {
+      "id": "20Mediaset",
+      "name": "20 Mediaset",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/20mediaset_cLB"
+    },
+    {
+      "id": "Iris",
+      "name": "Iris",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/iris.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/iris_cKI"
+    },
+    {
+      "id": "La5",
+      "name": "La 5",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la5.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/la5_cKA"
+    },
+    {
+      "id": "Cine34",
+      "name": "Cine34",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cine34.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/cine34_cB6"
+    },
+    {
+      "id": "Focus",
+      "name": "FOCUS",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/focus.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/focus_cFU"
+    },
+    {
+      "id": "TopCrime",
+      "name": "Top Crime",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/topcrime.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/topcrime_cLT"
+    },
+    {
+      "id": "Boing",
+      "name": "Boing",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/boing.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/boing_cKB"
+    },
+    {
+      "id": "Cartoonito",
+      "name": "Cartoonito",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/cartoonito_cLA"
+    },
+    {
+      "id": "Italia2",
+      "name": "Italia 2",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/italia2_cI2"
+    },
+    {
+      "id": "TGCom24",
+      "name": "TGCOM 24",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/tgcom24_cKF"
+    },
+    {
+      "id": "MediasetExtra",
+      "name": "Mediaset Extra",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/mediasetextra.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/mediasetextra_cKQ"
+    },
+    {
+      "id": "TwentySeven",
+      "name": "Twenty Seven",
+      "group": "Mediaset",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/twentyseven.png",
+      "type": "dash",
+      "source_page": "https://mediasetinfinity.mediaset.it/diretta/twentyseven_cTS"
+    },
+    {
+      "id": "RealTime",
+      "name": "Real Time",
+      "group": "Discovery",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png",
+      "type": "hls",
+      "source_page": "https://www.discoveryplus.com/it/channel/real-time"
+    },
+    {
+      "id": "Nove",
+      "name": "NOVE",
+      "group": "Discovery",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png",
+      "type": "hls",
+      "source_page": "https://play.discoveryplus.com/channel/watch/daf976fa-2a48-5fcb-99ac-7c6e3dc340d5/772eea69-b375-5448-8fcc-4bcd29b7e2a0?referringSite=dotcom"
+    },
+    {
+      "id": "DMAX",
+      "name": "DMAX",
+      "group": "Discovery",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png",
+      "type": "hls",
+      "source_page": "https://www.discoveryplus.com/it/channel/dmax"
+    },
+    {
+      "id": "Giallo",
+      "name": "Giallo",
+      "group": "Discovery",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png",
+      "type": "hls",
+      "source_page": "https://www.discoveryplus.com/it/channel/giallo"
+    },
+    {
+      "id": "MotorTrend",
+      "name": "Motor Trend",
+      "group": "Discovery",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png",
+      "type": "hls",
+      "source_page": "https://www.discoveryplus.com/it/channel/motor-trend"
+    },
+    {
+      "id": "FoodNetwork",
+      "name": "Food Network",
+      "group": "Discovery",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png",
+      "type": "hls",
+      "source_page": "https://www.discoveryplus.com/it/channel/food-network"
+    },
+    {
+      "id": "K2",
+      "name": "K2",
+      "group": "Discovery",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/k2.png",
+      "type": "hls",
+      "source_page": "https://www.discoveryplus.com/it/channel/k2"
+    },
+    {
+      "id": "Frisbee",
+      "name": "Frisbee",
+      "group": "Discovery",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png",
+      "type": "hls",
+      "source_page": "https://www.discoveryplus.com/it/channel/frisbee"
+    },
+    {
+      "id": "La7",
+      "name": "LA7",
+      "group": "Altro",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png",
+      "type": "hls",
+      "source_page": "https://www.la7.it/dirette-tv"
+    },
+    {
+      "id": "Tv8",
+      "name": "TV8",
+      "group": "Sky",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png",
+      "type": "hls",
+      "source_page": "https://www.tv8.it/streaming"
+    },
+    {
+      "id": "Cielo",
+      "name": "Cielo",
+      "group": "Sky",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png",
+      "type": "hls",
+      "source_page": "https://www.cielotv.it/streaming.html"
+    },
+    {
+      "id": "SkyTG24",
+      "name": "Sky TG24",
+      "group": "Sky",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png",
+      "type": "hls",
+      "source_page": "https://tg24.sky.it/diretta"
+    },
+    {
+      "id": "Rai4",
+      "name": "Rai 4",
+      "group": "Rai",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png",
+      "type": "hls",
+      "source_page": "https://www.raiplay.it/dirette/rai4"
+    },
+    {
+      "id": "Rai5",
+      "name": "Rai 5",
+      "group": "Rai",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png",
+      "type": "hls",
+      "source_page": "https://www.raiplay.it/dirette/rai5"
+    },
+    {
+      "id": "RaiMovie",
+      "name": "Rai Movie",
+      "group": "Rai",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png",
+      "type": "hls",
+      "source_page": "https://www.raiplay.it/dirette/raimovie"
+    },
+    {
+      "id": "RaiPremium",
+      "name": "Rai Premium",
+      "group": "Rai",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raipremium.png",
+      "type": "hls",
+      "source_page": "https://www.raiplay.it/dirette/raipremium"
+    },
+    {
+      "id": "RaiGulp",
+      "name": "Rai Gulp",
+      "group": "Rai",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png",
+      "type": "hls",
+      "source_page": "https://www.raiplay.it/dirette/raigulp"
+    },
+    {
+      "id": "RaiYoyo",
+      "name": "Rai Yoyo",
+      "group": "Rai",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png",
+      "type": "hls",
+      "source_page": "https://www.raiplay.it/dirette/raiyoyo"
+    },
+    {
+      "id": "RaiNews24",
+      "name": "Rai News 24",
+      "group": "Rai",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png",
+      "type": "hls",
+      "source_page": "https://www.raiplay.it/dirette/rainews24"
+    },
+    {
+      "id": "RaiStoria",
+      "name": "Rai Storia",
+      "group": "Rai",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png",
+      "type": "hls",
+      "source_page": "https://www.raiplay.it/dirette/raistoria"
+    },
+    {
+      "id": "RaiScuola",
+      "name": "Rai Scuola",
+      "group": "Rai",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiscuola.png",
+      "type": "hls",
+      "source_page": "https://www.raiplay.it/dirette/raiscuola"
+    },
+    {
+      "id": "RaiSport+HD.it",
+      "name": "Rai Sport + HD",
+      "group": "Rai",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raisport+hd.png",
+      "type": "hls",
+      "source_page": "https://www.raiplay.it/dirette/raisport"
+    },
+    {
+      "id": "Sportitalia",
+      "name": "Sportitalia",
+      "group": "Altro",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png",
+      "type": "hls",
+      "source_page": "https://www.sportitalia.com/"
+    },
+    {
+      "id": "TV2000",
+      "name": "TV2000",
+      "group": "Altro",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png",
+      "type": "hls",
+      "source_page": "https://www.tv2000.it/live/"
+    },
+    {
+      "id": "TgrLombardia",
+      "name": "TGR Lombardia",
+      "group": "Rai Regionali",
+      "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png",
+      "type": "hls",
+      "source_page": "https://www.rainews.it/dirette/diretta-tgr-lombardia"
+    }
+  ]
+}

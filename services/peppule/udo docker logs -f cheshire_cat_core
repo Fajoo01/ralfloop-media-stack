@@ -1,0 +1,578 @@
+{
+    "kind": "series",
+    "query": "strike",
+    "title": "Strike",
+    "season": 1,
+    "episodes": 3,
+    "per_episode": {
+        "01": [
+            {
+                "id": 3982,
+                "name": "Detective Cormoran Strike 1x01 aac ITALIAN x264 1920x960p.mkv",
+                "fonti": 1,
+                "size": "891.33 MB",
+                "score": 750
+            },
+            {
+                "id": 4026,
+                "name": "Detective Cormoran Strike 1x01 aac ITALIAN x264 1920x960p.mkv",
+                "fonti": 1,
+                "size": "891.33 MB",
+                "score": 750
+            },
+            {
+                "id": 3983,
+                "name": "Strike.1x01.Episodio.1.iTA.AC3.DVDMux.x264-ADE.CreW.mkv",
+                "fonti": 1,
+                "size": "361.95 MB",
+                "score": 670
+            },
+            {
+                "id": 4027,
+                "name": "Strike.1x01.Episodio.1.iTA.AC3.DVDMux.x264-ADE.CreW.mkv",
+                "fonti": 1,
+                "size": "361.95 MB",
+                "score": 670
+            },
+            {
+                "id": 4016,
+                "name": "Strike Back 1x01 Iraq (Parte1) Episodio01 (2010 Ita Azione, Guerra).avi",
+                "fonti": 1,
+                "size": "411.64 MB",
+                "score": 370
+            },
+            {
+                "id": 4060,
+                "name": "Strike Back 1x01 Iraq (Parte1) Episodio01 (2010 Ita Azione, Guerra).avi",
+                "fonti": 1,
+                "size": "411.64 MB",
+                "score": 370
+            },
+            {
+                "id": 3993,
+                "name": "Strike.Back.1x01-02.Iraq.ITA.ENG.BDMux.XviD-NovaRip.avi",
+                "fonti": 1,
+                "size": "920.26 MB",
+                "score": 330
+            },
+            {
+                "id": 4037,
+                "name": "Strike.Back.1x01-02.Iraq.ITA.ENG.BDMux.XviD-NovaRip.avi",
+                "fonti": 1,
+                "size": "920.26 MB",
+                "score": 330
+            },
+            {
+                "id": 3996,
+                "name": "Strike.Back.1x01.Iraq.(Parte.1).ITA.PDTV.XviD-SiD.[tvu.org.ru].avi",
+                "fonti": 1,
+                "size": "350.01 MB",
+                "score": 230
+            },
+            {
+                "id": 4040,
+                "name": "Strike.Back.1x01.Iraq.(Parte.1).ITA.PDTV.XviD-SiD.[tvu.org.ru].avi",
+                "fonti": 1,
+                "size": "350.01 MB",
+                "score": 230
+            }
+        ],
+        "02": [
+            {
+                "id": 4023,
+                "name": "Cobra.Kai.S01E02.Strike.First.1080p.WEBRip.ITA.ENG.DDP5.1.x264-BlackBit.mkv",
+                "fonti": 1,
+                "size": "1230.65 MB",
+                "score": 960
+            },
+            {
+                "id": 4067,
+                "name": "Cobra.Kai.S01E02.Strike.First.1080p.WEBRip.ITA.ENG.DDP5.1.x264-BlackBit.mkv",
+                "fonti": 1,
+                "size": "1230.65 MB",
+                "score": 960
+            },
+            {
+                "id": 3989,
+                "name": "Detective Cormoran Strike 1x02 aac ITALIAN x264 1920x960p.mkv",
+                "fonti": 1,
+                "size": "879.57 MB",
+                "score": 750
+            },
+            {
+                "id": 4033,
+                "name": "Detective Cormoran Strike 1x02 aac ITALIAN x264 1920x960p.mkv",
+                "fonti": 1,
+                "size": "879.57 MB",
+                "score": 750
+            },
+            {
+                "id": 3985,
+                "name": "Strike.1x02.Il.Richiamo.Del.Cuculo.iTA.AC3.DVDMux.x264-ADE.CreW.mkv",
+                "fonti": 4,
+                "size": "349.92 MB",
+                "score": 700
+            },
+            {
+                "id": 4029,
+                "name": "Strike.1x02.Il.Richiamo.Del.Cuculo.iTA.AC3.DVDMux.x264-ADE.CreW.mkv",
+                "fonti": 4,
+                "size": "349.92 MB",
+                "score": 700
+            },
+            {
+                "id": 3993,
+                "name": "Strike.Back.1x01-02.Iraq.ITA.ENG.BDMux.XviD-NovaRip.avi",
+                "fonti": 1,
+                "size": "920.26 MB",
+                "score": 330
+            },
+            {
+                "id": 4037,
+                "name": "Strike.Back.1x01-02.Iraq.ITA.ENG.BDMux.XviD-NovaRip.avi",
+                "fonti": 1,
+                "size": "920.26 MB",
+                "score": 330
+            },
+            {
+                "id": 3984,
+                "name": "Strike.Back.1x02.Iraq.(Parte.2).ITA.PDTV.XviD-SiD.[tvu.org.ru].avi",
+                "fonti": 1,
+                "size": "350.0 MB",
+                "score": 230
+            },
+            {
+                "id": 4011,
+                "name": "Strike Back 1x02 Iraq (Parte 2) Ita Pdtv Xvid-Sid.avi",
+                "fonti": 1,
+                "size": "415.9 MB",
+                "score": 230
+            }
+        ],
+        "03": [
+            {
+                "id": 3990,
+                "name": "Detective Cormoran Strike 1x03 aac ITALIAN x264 1920x960p.mkv",
+                "fonti": 1,
+                "size": "895.86 MB",
+                "score": 750
+            },
+            {
+                "id": 4019,
+                "name": "Strike.S01E03.ITA.WEBDL.720p.mp4",
+                "fonti": 1,
+                "size": "256.64 MB",
+                "score": 750
+            },
+            {
+                "id": 4034,
+                "name": "Detective Cormoran Strike 1x03 aac ITALIAN x264 1920x960p.mkv",
+                "fonti": 1,
+                "size": "895.86 MB",
+                "score": 750
+            },
+            {
+                "id": 4063,
+                "name": "Strike.S01E03.ITA.WEBDL.720p.mp4",
+                "fonti": 1,
+                "size": "256.64 MB",
+                "score": 750
+            },
+            {
+                "id": 3987,
+                "name": "Strike.1x03.Episodio.3.iTA.AC3.DVDMux.x264-ADE.CreW.mkv",
+                "fonti": 1,
+                "size": "372.2 MB",
+                "score": 670
+            },
+            {
+                "id": 4031,
+                "name": "Strike.1x03.Episodio.3.iTA.AC3.DVDMux.x264-ADE.CreW.mkv",
+                "fonti": 1,
+                "size": "372.2 MB",
+                "score": 670
+            },
+            {
+                "id": 4000,
+                "name": "Strike Back 1x03 Zimbabwe (Parte1) Episodio03 Ita.avi",
+                "fonti": 1,
+                "size": "350.0 MB",
+                "score": 370
+            },
+            {
+                "id": 4044,
+                "name": "Strike Back 1x03 Zimbabwe (Parte1) Episodio03 Ita.avi",
+                "fonti": 1,
+                "size": "350.0 MB",
+                "score": 370
+            },
+            {
+                "id": 4009,
+                "name": "Strike.Back.1x03-04.Zimbabwe.ITA.ENG.BDMux.XviD-NovaRip.avi",
+                "fonti": 1,
+                "size": "909.96 MB",
+                "score": 330
+            },
+            {
+                "id": 4053,
+                "name": "Strike.Back.1x03-04.Zimbabwe.ITA.ENG.BDMux.XviD-NovaRip.avi",
+                "fonti": 1,
+                "size": "909.96 MB",
+                "score": 330
+            }
+        ]
+    },
+    "season_results_top": [
+        {
+            "id": 4023,
+            "name": "Cobra.Kai.S01E02.Strike.First.1080p.WEBRip.ITA.ENG.DDP5.1.x264-BlackBit.mkv",
+            "fonti": 1,
+            "size": "1230.65 MB",
+            "score": 960
+        },
+        {
+            "id": 4067,
+            "name": "Cobra.Kai.S01E02.Strike.First.1080p.WEBRip.ITA.ENG.DDP5.1.x264-BlackBit.mkv",
+            "fonti": 1,
+            "size": "1230.65 MB",
+            "score": 960
+        },
+        {
+            "id": 3982,
+            "name": "Detective Cormoran Strike 1x01 aac ITALIAN x264 1920x960p.mkv",
+            "fonti": 1,
+            "size": "891.33 MB",
+            "score": 750
+        },
+        {
+            "id": 3989,
+            "name": "Detective Cormoran Strike 1x02 aac ITALIAN x264 1920x960p.mkv",
+            "fonti": 1,
+            "size": "879.57 MB",
+            "score": 750
+        },
+        {
+            "id": 3990,
+            "name": "Detective Cormoran Strike 1x03 aac ITALIAN x264 1920x960p.mkv",
+            "fonti": 1,
+            "size": "895.86 MB",
+            "score": 750
+        },
+        {
+            "id": 4010,
+            "name": "Detective Cormoran Strike 1x04 aac ITALIAN x264 1920x960p.mkv",
+            "fonti": 1,
+            "size": "902.82 MB",
+            "score": 750
+        },
+        {
+            "id": 4019,
+            "name": "Strike.S01E03.ITA.WEBDL.720p.mp4",
+            "fonti": 1,
+            "size": "256.64 MB",
+            "score": 750
+        },
+        {
+            "id": 4026,
+            "name": "Detective Cormoran Strike 1x01 aac ITALIAN x264 1920x960p.mkv",
+            "fonti": 1,
+            "size": "891.33 MB",
+            "score": 750
+        },
+        {
+            "id": 4033,
+            "name": "Detective Cormoran Strike 1x02 aac ITALIAN x264 1920x960p.mkv",
+            "fonti": 1,
+            "size": "879.57 MB",
+            "score": 750
+        },
+        {
+            "id": 4034,
+            "name": "Detective Cormoran Strike 1x03 aac ITALIAN x264 1920x960p.mkv",
+            "fonti": 1,
+            "size": "895.86 MB",
+            "score": 750
+        },
+        {
+            "id": 4054,
+            "name": "Detective Cormoran Strike 1x04 aac ITALIAN x264 1920x960p.mkv",
+            "fonti": 1,
+            "size": "902.82 MB",
+            "score": 750
+        },
+        {
+            "id": 4063,
+            "name": "Strike.S01E03.ITA.WEBDL.720p.mp4",
+            "fonti": 1,
+            "size": "256.64 MB",
+            "score": 750
+        },
+        {
+            "id": 3985,
+            "name": "Strike.1x02.Il.Richiamo.Del.Cuculo.iTA.AC3.DVDMux.x264-ADE.CreW.mkv",
+            "fonti": 4,
+            "size": "349.92 MB",
+            "score": 700
+        },
+        {
+            "id": 4029,
+            "name": "Strike.1x02.Il.Richiamo.Del.Cuculo.iTA.AC3.DVDMux.x264-ADE.CreW.mkv",
+            "fonti": 4,
+            "size": "349.92 MB",
+            "score": 700
+        },
+        {
+            "id": 3983,
+            "name": "Strike.1x01.Episodio.1.iTA.AC3.DVDMux.x264-ADE.CreW.mkv",
+            "fonti": 1,
+            "size": "361.95 MB",
+            "score": 670
+        },
+        {
+            "id": 3987,
+            "name": "Strike.1x03.Episodio.3.iTA.AC3.DVDMux.x264-ADE.CreW.mkv",
+            "fonti": 1,
+            "size": "372.2 MB",
+            "score": 670
+        },
+        {
+            "id": 4027,
+            "name": "Strike.1x01.Episodio.1.iTA.AC3.DVDMux.x264-ADE.CreW.mkv",
+            "fonti": 1,
+            "size": "361.95 MB",
+            "score": 670
+        },
+        {
+            "id": 4031,
+            "name": "Strike.1x03.Episodio.3.iTA.AC3.DVDMux.x264-ADE.CreW.mkv",
+            "fonti": 1,
+            "size": "372.2 MB",
+            "score": 670
+        },
+        {
+            "id": 3981,
+            "name": "Strike Back 1x06 Afghanistan (Parte2) Episodio06 Ita.avi",
+            "fonti": 1,
+            "size": "349.81 MB",
+            "score": 370
+        },
+        {
+            "id": 3988,
+            "name": "Strike Back 1x09 Project Dawn Ita.avi",
+            "fonti": 1,
+            "size": "350.01 MB",
+            "score": 370
+        },
+        {
+            "id": 3992,
+            "name": "Strike.Back.1x04.Zimbabwe (Parte2) Episodio04.ITA.avi",
+            "fonti": 1,
+            "size": "349.86 MB",
+            "score": 370
+        },
+        {
+            "id": 3994,
+            "name": "Strike Back 1x05 Afghanistan (Parte1) Episodio05 Ita.avi",
+            "fonti": 1,
+            "size": "349.83 MB",
+            "score": 370
+        },
+        {
+            "id": 4000,
+            "name": "Strike Back 1x03 Zimbabwe (Parte1) Episodio03 Ita.avi",
+            "fonti": 1,
+            "size": "350.0 MB",
+            "score": 370
+        },
+        {
+            "id": 4012,
+            "name": "Strike Back 1x06 Afghanistan (Parte2) Episodio06 Ita.avi",
+            "fonti": 1,
+            "size": "445.26 MB",
+            "score": 370
+        },
+        {
+            "id": 4013,
+            "name": "Strike Back 1x05 Afghanistan (Parte1) Episodio05 Ita.avi",
+            "fonti": 1,
+            "size": "450.79 MB",
+            "score": 370
+        },
+        {
+            "id": 4015,
+            "name": "Strike Back 1x04 Zimbabwe (Parte2) Episodio04 Ita.avi",
+            "fonti": 1,
+            "size": "458.59 MB",
+            "score": 370
+        },
+        {
+            "id": 4016,
+            "name": "Strike Back 1x01 Iraq (Parte1) Episodio01 (2010 Ita Azione, Guerra).avi",
+            "fonti": 1,
+            "size": "411.64 MB",
+            "score": 370
+        },
+        {
+            "id": 4025,
+            "name": "Strike Back 1x06 Afghanistan (Parte2) Episodio06 Ita.avi",
+            "fonti": 1,
+            "size": "349.81 MB",
+            "score": 370
+        },
+        {
+            "id": 4032,
+            "name": "Strike Back 1x09 Project Dawn Ita.avi",
+            "fonti": 1,
+            "size": "350.01 MB",
+            "score": 370
+        },
+        {
+            "id": 4036,
+            "name": "Strike.Back.1x04.Zimbabwe (Parte2) Episodio04.ITA.avi",
+            "fonti": 1,
+            "size": "349.86 MB",
+            "score": 370
+        },
+        {
+            "id": 4038,
+            "name": "Strike Back 1x05 Afghanistan (Parte1) Episodio05 Ita.avi",
+            "fonti": 1,
+            "size": "349.83 MB",
+            "score": 370
+        },
+        {
+            "id": 4044,
+            "name": "Strike Back 1x03 Zimbabwe (Parte1) Episodio03 Ita.avi",
+            "fonti": 1,
+            "size": "350.0 MB",
+            "score": 370
+        },
+        {
+            "id": 4056,
+            "name": "Strike Back 1x06 Afghanistan (Parte2) Episodio06 Ita.avi",
+            "fonti": 1,
+            "size": "445.26 MB",
+            "score": 370
+        },
+        {
+            "id": 4057,
+            "name": "Strike Back 1x05 Afghanistan (Parte1) Episodio05 Ita.avi",
+            "fonti": 1,
+            "size": "450.79 MB",
+            "score": 370
+        },
+        {
+            "id": 4059,
+            "name": "Strike Back 1x04 Zimbabwe (Parte2) Episodio04 Ita.avi",
+            "fonti": 1,
+            "size": "458.59 MB",
+            "score": 370
+        },
+        {
+            "id": 4060,
+            "name": "Strike Back 1x01 Iraq (Parte1) Episodio01 (2010 Ita Azione, Guerra).avi",
+            "fonti": 1,
+            "size": "411.64 MB",
+            "score": 370
+        },
+        {
+            "id": 3991,
+            "name": "Strike.Back.1x05-06.Afghanistan.ITA.ENG.BDMux.XviD-NovaRip.avi",
+            "fonti": 1,
+            "size": "888.66 MB",
+            "score": 330
+        },
+        {
+            "id": 3993,
+            "name": "Strike.Back.1x01-02.Iraq.ITA.ENG.BDMux.XviD-NovaRip.avi",
+            "fonti": 1,
+            "size": "920.26 MB",
+            "score": 330
+        },
+        {
+            "id": 4009,
+            "name": "Strike.Back.1x03-04.Zimbabwe.ITA.ENG.BDMux.XviD-NovaRip.avi",
+            "fonti": 1,
+            "size": "909.96 MB",
+            "score": 330
+        },
+        {
+            "id": 4035,
+            "name": "Strike.Back.1x05-06.Afghanistan.ITA.ENG.BDMux.XviD-NovaRip.avi",
+            "fonti": 1,
+            "size": "888.66 MB",
+            "score": 330
+        },
+        {
+            "id": 4037,
+            "name": "Strike.Back.1x01-02.Iraq.ITA.ENG.BDMux.XviD-NovaRip.avi",
+            "fonti": 1,
+            "size": "920.26 MB",
+            "score": 330
+        },
+        {
+            "id": 4053,
+            "name": "Strike.Back.1x03-04.Zimbabwe.ITA.ENG.BDMux.XviD-NovaRip.avi",
+            "fonti": 1,
+            "size": "909.96 MB",
+            "score": 330
+        },
+        {
+            "id": 3984,
+            "name": "Strike.Back.1x02.Iraq.(Parte.2).ITA.PDTV.XviD-SiD.[tvu.org.ru].avi",
+            "fonti": 1,
+            "size": "350.0 MB",
+            "score": 230
+        },
+        {
+            "id": 3996,
+            "name": "Strike.Back.1x01.Iraq.(Parte.1).ITA.PDTV.XviD-SiD.[tvu.org.ru].avi",
+            "fonti": 1,
+            "size": "350.01 MB",
+            "score": 230
+        },
+        {
+            "id": 4004,
+            "name": "Strike Back 1x07 Kosovo (Parte.1) Ita Hdtv Xvid-Sid.avi",
+            "fonti": 1,
+            "size": "349.91 MB",
+            "score": 230
+        },
+        {
+            "id": 4008,
+            "name": "Strike Back 1x08 Kosovo (Parte.2) Ita Hdtv Xvid-Sid.avi",
+            "fonti": 1,
+            "size": "350.01 MB",
+            "score": 230
+        },
+        {
+            "id": 4011,
+            "name": "Strike Back 1x02 Iraq (Parte 2) Ita Pdtv Xvid-Sid.avi",
+            "fonti": 1,
+            "size": "415.9 MB",
+            "score": 230
+        },
+        {
+            "id": 4017,
+            "name": "Strike Back 1x03 Zimbabwe (Parte 1) Ita Pdtv Xvid-Sid.avi",
+            "fonti": 1,
+            "size": "432.17 MB",
+            "score": 230
+        },
+        {
+            "id": 4028,
+            "name": "Strike.Back.1x02.Iraq.(Parte.2).ITA.PDTV.XviD-SiD.[tvu.org.ru].avi",
+            "fonti": 1,
+            "size": "350.0 MB",
+            "score": 230
+        },
+        {
+            "id": 4040,
+            "name": "Strike.Back.1x01.Iraq.(Parte.1).ITA.PDTV.XviD-SiD.[tvu.org.ru].avi",
+            "fonti": 1,
+            "size": "350.01 MB",
+            "score": 230
+        }
+    ],
+    "packs_top": []
+}

@@ -1,0 +1,1839 @@
+[
+  {
+    "candidate_id": "series::Law & Order - I due volti della giustizia::0",
+    "kind": "series",
+    "title": "Law & Order - I due volti della giustizia",
+    "season_number": null,
+    "score": 22.2,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 24.75,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Crime",
+        "Dramma"
+      ],
+      "franchise": "Law & Order - I due volti della giustizia",
+      "base_franchise": "law order i due volti della giustizia"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Law & Order - Unità vittime speciali::0",
+    "kind": "series",
+    "title": "Law & Order - Unità vittime speciali",
+    "season_number": null,
+    "score": 21.6,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 24.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Crime",
+        "Dramma",
+        "Mistero"
+      ],
+      "franchise": "Law & Order - Unità vittime speciali",
+      "base_franchise": "law order unità vittime speciali"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Monarch: Legacy of Monsters::0",
+    "kind": "series",
+    "title": "Monarch: Legacy of Monsters",
+    "season_number": null,
+    "score": 19.2,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 21.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Action & Adventure"
+      ],
+      "franchise": "Monarch: Legacy of Monsters",
+      "base_franchise": "monarch legacy of monsters"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Kamen Rider::0",
+    "kind": "series",
+    "title": "Kamen Rider",
+    "season_number": null,
+    "score": 19.2,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 21.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "franchise": "Kamen Rider",
+      "base_franchise": "kamen rider"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::Cena di classe::0",
+    "kind": "movie",
+    "title": "Cena di classe",
+    "season_number": null,
+    "score": 18.6,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 20.25,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Commedia",
+        "Dramma"
+      ],
+      "franchise": null,
+      "base_franchise": "cena di classe"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::La Promessa::0",
+    "kind": "series",
+    "title": "La Promessa",
+    "season_number": null,
+    "score": 18.0,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 19.5,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma",
+        "Mistero",
+        "Soap"
+      ],
+      "franchise": "La Promessa",
+      "base_franchise": "la promessa"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::NCIS - Unità anticrimine::0",
+    "kind": "series",
+    "title": "NCIS - Unità anticrimine",
+    "season_number": null,
+    "score": 18.0,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 19.5,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Crime",
+        "Dramma",
+        "Action & Adventure"
+      ],
+      "franchise": "NCIS - Unità anticrimine",
+      "base_franchise": "ncis unità anticrimine"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::언더커버 미쓰홍::0",
+    "kind": "series",
+    "title": "언더커버 미쓰홍",
+    "season_number": null,
+    "score": 16.8,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 18.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Crime",
+        "Commedia",
+        "Dramma"
+      ],
+      "franchise": "언더커버 미쓰홍",
+      "base_franchise": "언더커버 미쓰홍"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::Mio fratello è un vichingo::0",
+    "kind": "movie",
+    "title": "Mio fratello è un vichingo",
+    "season_number": null,
+    "score": 16.8,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 18.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Commedia",
+        "Crime",
+        "Dramma"
+      ],
+      "franchise": null,
+      "base_franchise": "mio fratello è un vichingo"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::The Rookie::0",
+    "kind": "series",
+    "title": "The Rookie",
+    "season_number": null,
+    "score": 16.8,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 18.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Crime",
+        "Dramma",
+        "Commedia"
+      ],
+      "franchise": "The Rookie",
+      "base_franchise": "the rookie"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Tomorrow Is Ours - Il domani è nostro::0",
+    "kind": "series",
+    "title": "Tomorrow Is Ours - Il domani è nostro",
+    "season_number": null,
+    "score": 15.6,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 16.5,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Crime",
+        "Dramma",
+        "Soap"
+      ],
+      "franchise": "Tomorrow Is Ours - Il domani è nostro",
+      "base_franchise": "tomorrow is ours il domani è nostro"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::EastEnders::0",
+    "kind": "series",
+    "title": "EastEnders",
+    "season_number": null,
+    "score": 15.6,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 16.5,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Soap",
+        "Dramma",
+        "Crime"
+      ],
+      "franchise": "EastEnders",
+      "base_franchise": "eastenders"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::明星大侦探::0",
+    "kind": "series",
+    "title": "明星大侦探",
+    "season_number": null,
+    "score": 14.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 15.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Crime",
+        "Mistero",
+        "Reality"
+      ],
+      "franchise": "明星大侦探",
+      "base_franchise": "明星大侦探"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::デッドアカウント::0",
+    "kind": "series",
+    "title": "デッドアカウント",
+    "season_number": null,
+    "score": 9.6,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 9.0,
+      "anime_penalty": 12.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "franchise": "デッドアカウント",
+      "base_franchise": "デッドアカウント"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Severance - S2::2",
+    "kind": "series",
+    "title": "Severance - S2",
+    "season_number": 2,
+    "score": 8.55,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "continuation",
+      "bucket_bonus": 12.0,
+      "priority_boost": 3,
+      "priority_bonus": 7.5,
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "franchise": "Severance",
+      "base_franchise": "severance"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::The Last of Us - S2::2",
+    "kind": "series",
+    "title": "The Last of Us - S2",
+    "season_number": 2,
+    "score": 8.55,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "continuation",
+      "bucket_bonus": 12.0,
+      "priority_boost": 3,
+      "priority_bonus": 7.5,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "franchise": "The Last of Us",
+      "base_franchise": "the last of us"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Fallout - S2::2",
+    "kind": "series",
+    "title": "Fallout - S2",
+    "season_number": 2,
+    "score": 7.3,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "continuation",
+      "bucket_bonus": 12.0,
+      "priority_boost": 2,
+      "priority_bonus": 5.0,
+      "genres": [
+        "Sci-Fi",
+        "Action"
+      ],
+      "franchise": "Fallout",
+      "base_franchise": "fallout"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::お気楽領主の楽しい領地防衛 ～生産系魔術で名もなき村を最強の城塞都市に～::0",
+    "kind": "series",
+    "title": "お気楽領主の楽しい領地防衛 ～生産系魔術で名もなき村を最強の城塞都市に～",
+    "season_number": null,
+    "score": 7.2,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 6.0,
+      "anime_penalty": 12.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "franchise": "お気楽領主の楽しい領地防衛 ～生産系魔術で名もなき村を最強の城塞都市に～",
+      "base_franchise": "お気楽領主の楽しい領地防衛 生産系魔術で名もなき村を最強の城塞都市に"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Hell Mode ~ Il giocatore hardcore domina in un altro mondo con settaggi folli ~::0",
+    "kind": "series",
+    "title": "Hell Mode ~ Il giocatore hardcore domina in un altro mondo con settaggi folli ~",
+    "season_number": null,
+    "score": 7.2,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 6.0,
+      "anime_penalty": 12.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "franchise": "Hell Mode ~ Il giocatore hardcore domina in un altro mondo con settaggi folli ~",
+      "base_franchise": "hell mode il giocatore hardcore domina in un altro mondo con settaggi folli"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Jujutsu Kaisen::0",
+    "kind": "series",
+    "title": "Jujutsu Kaisen",
+    "season_number": null,
+    "score": 7.2,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 6.0,
+      "anime_penalty": 12.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "franchise": "Jujutsu Kaisen",
+      "base_franchise": "jujutsu kaisen"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Battle Through the Heavens::0",
+    "kind": "series",
+    "title": "Battle Through the Heavens",
+    "season_number": null,
+    "score": 7.2,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 6.0,
+      "anime_penalty": 12.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "franchise": "Battle Through the Heavens",
+      "base_franchise": "battle through the heavens"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Detective Conan::0",
+    "kind": "series",
+    "title": "Detective Conan",
+    "season_number": null,
+    "score": 6.0,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 4.5,
+      "anime_penalty": 12.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Animazione",
+        "Crime",
+        "Mistero",
+        "Commedia"
+      ],
+      "franchise": "Detective Conan",
+      "base_franchise": "detective conan"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Teen Titans Go!::0",
+    "kind": "series",
+    "title": "Teen Titans Go!",
+    "season_number": null,
+    "score": 3.6,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 1.5,
+      "anime_penalty": 12.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Famiglia",
+        "Sci-Fi & Fantasy"
+      ],
+      "franchise": "Teen Titans Go!",
+      "base_franchise": "teen titans go"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::Lady Nazca - La signora delle linee::0",
+    "kind": "movie",
+    "title": "Lady Nazca - La signora delle linee",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma",
+        "Storia",
+        "Avventura"
+      ],
+      "franchise": null,
+      "base_franchise": "lady nazca la signora delle linee"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::Arco - Un'amicizia per salvare il futuro::0",
+    "kind": "movie",
+    "title": "Arco - Un'amicizia per salvare il futuro",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Animazione",
+        "Avventura",
+        "Fantasy",
+        "Famiglia",
+        "Dramma"
+      ],
+      "franchise": null,
+      "base_franchise": "arco un amicizia per salvare il futuro"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Marshals: A Yellowstone Story::0",
+    "kind": "series",
+    "title": "Marshals: A Yellowstone Story",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma",
+        "Western"
+      ],
+      "franchise": "Marshals: A Yellowstone Story",
+      "base_franchise": "marshals a yellowstone story"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Sevdiğim Sensin::0",
+    "kind": "series",
+    "title": "Sevdiğim Sensin",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma",
+        "Soap"
+      ],
+      "franchise": "Sevdiğim Sensin",
+      "base_franchise": "sevdiğim sensin"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::逐玉::0",
+    "kind": "series",
+    "title": "逐玉",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma"
+      ],
+      "franchise": "逐玉",
+      "base_franchise": "逐玉"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::Strike - Figli di un’era sbagliata::0",
+    "kind": "movie",
+    "title": "Strike - Figli di un’era sbagliata",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma"
+      ],
+      "franchise": null,
+      "base_franchise": "strike figli di un era sbagliata"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::Reminders of Him - La parte migliore di te::0",
+    "kind": "movie",
+    "title": "Reminders of Him - La parte migliore di te",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma",
+        "Romance"
+      ],
+      "franchise": null,
+      "base_franchise": "reminders of him la parte migliore di te"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::The History Of Sound - Sulle note di un amore::0",
+    "kind": "movie",
+    "title": "The History Of Sound - Sulle note di un amore",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma",
+        "Romance",
+        "Musica"
+      ],
+      "franchise": null,
+      "base_franchise": "the history of sound sulle note di un amore"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::Idoli - Fino all’ultima corsa::0",
+    "kind": "movie",
+    "title": "Idoli - Fino all’ultima corsa",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma",
+        "Romance"
+      ],
+      "franchise": null,
+      "base_franchise": "idoli fino all ultima corsa"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::La torta del presidente::0",
+    "kind": "movie",
+    "title": "La torta del presidente",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma"
+      ],
+      "franchise": null,
+      "base_franchise": "la torta del presidente"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::L'isola dei ricordi::0",
+    "kind": "movie",
+    "title": "L'isola dei ricordi",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma"
+      ],
+      "franchise": null,
+      "base_franchise": "l isola dei ricordi"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::Homebound - Storia di un'amicizia in India::0",
+    "kind": "movie",
+    "title": "Homebound - Storia di un'amicizia in India",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma"
+      ],
+      "franchise": null,
+      "base_franchise": "homebound storia di un amicizia in india"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::Gli occhi degli altri::0",
+    "kind": "movie",
+    "title": "Gli occhi degli altri",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma"
+      ],
+      "franchise": null,
+      "base_franchise": "gli occhi degli altri"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Três Graças::0",
+    "kind": "series",
+    "title": "Três Graças",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Soap",
+        "Dramma"
+      ],
+      "franchise": "Três Graças",
+      "base_franchise": "três graças"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Grey's Anatomy::0",
+    "kind": "series",
+    "title": "Grey's Anatomy",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma"
+      ],
+      "franchise": "Grey's Anatomy",
+      "base_franchise": "grey s anatomy"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Salatut elämät::0",
+    "kind": "series",
+    "title": "Salatut elämät",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Soap",
+        "Dramma"
+      ],
+      "franchise": "Salatut elämät",
+      "base_franchise": "salatut elämät"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Gute Zeiten, schlechte Zeiten::0",
+    "kind": "series",
+    "title": "Gute Zeiten, schlechte Zeiten",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma",
+        "Soap"
+      ],
+      "franchise": "Gute Zeiten, schlechte Zeiten",
+      "base_franchise": "gute zeiten schlechte zeiten"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Casualty::0",
+    "kind": "series",
+    "title": "Casualty",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Dramma",
+        "Soap"
+      ],
+      "franchise": "Casualty",
+      "base_franchise": "casualty"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::L'ultima missione: Project Hail Mary::0",
+    "kind": "movie",
+    "title": "L'ultima missione: Project Hail Mary",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Fantascienza",
+        "Avventura",
+        "Mistero"
+      ],
+      "franchise": null,
+      "base_franchise": "l ultima missione project hail mary"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::Keeper - L'eletta::0",
+    "kind": "movie",
+    "title": "Keeper - L'eletta",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Horror",
+        "Mistero"
+      ],
+      "franchise": null,
+      "base_franchise": "keeper l eletta"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::Super Mario Galaxy - Il film::0",
+    "kind": "movie",
+    "title": "Super Mario Galaxy - Il film",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Famiglia",
+        "Fantasy",
+        "Commedia",
+        "Avventura",
+        "Animazione"
+      ],
+      "franchise": null,
+      "base_franchise": "super mario galaxy il film"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::Ti uccideranno::0",
+    "kind": "movie",
+    "title": "Ti uccideranno",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Azione",
+        "Commedia",
+        "Horror"
+      ],
+      "franchise": null,
+      "base_franchise": "ti uccideranno"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::Non è la fine del mondo::0",
+    "kind": "movie",
+    "title": "Non è la fine del mondo",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Romance",
+        "Commedia"
+      ],
+      "franchise": null,
+      "base_franchise": "non è la fine del mondo"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::Il Dio dell'Amore::0",
+    "kind": "movie",
+    "title": "Il Dio dell'Amore",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Commedia"
+      ],
+      "franchise": null,
+      "base_franchise": "il dio dell amore"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::48 Hours::0",
+    "kind": "series",
+    "title": "48 Hours",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "News",
+        "Crime",
+        "Documentario"
+      ],
+      "franchise": "48 Hours",
+      "base_franchise": "48 hours"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::놀라운 토요일::0",
+    "kind": "series",
+    "title": "놀라운 토요일",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Commedia",
+        "Reality"
+      ],
+      "franchise": "놀라운 토요일",
+      "base_franchise": "놀라운 토요일"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::The Late Show with Stephen Colbert::0",
+    "kind": "series",
+    "title": "The Late Show with Stephen Colbert",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Commedia",
+        "Talk"
+      ],
+      "franchise": "The Late Show with Stephen Colbert",
+      "base_franchise": "the late show with stephen colbert"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Watch What Happens Live with Andy Cohen::0",
+    "kind": "series",
+    "title": "Watch What Happens Live with Andy Cohen",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Talk",
+        "Commedia"
+      ],
+      "franchise": "Watch What Happens Live with Andy Cohen",
+      "base_franchise": "watch what happens live with andy cohen"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::TMZ::0",
+    "kind": "series",
+    "title": "TMZ",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "News",
+        "Commedia"
+      ],
+      "franchise": "TMZ",
+      "base_franchise": "tmz"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Saturday Night Live::0",
+    "kind": "series",
+    "title": "Saturday Night Live",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Commedia",
+        "News"
+      ],
+      "franchise": "Saturday Night Live",
+      "base_franchise": "saturday night live"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "movie::E.1027 - Eileen Gray e la casa sul mare::0",
+    "kind": "movie",
+    "title": "E.1027 - Eileen Gray e la casa sul mare",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Documentario"
+      ],
+      "franchise": null,
+      "base_franchise": "e 1027 eileen gray e la casa sul mare"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::你好，星期六::0",
+    "kind": "series",
+    "title": "你好，星期六",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Reality"
+      ],
+      "franchise": "你好，星期六",
+      "base_franchise": "你好 星期六"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::전지적 참견 시점::0",
+    "kind": "series",
+    "title": "전지적 참견 시점",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Reality"
+      ],
+      "franchise": "전지적 참견 시점",
+      "base_franchise": "전지적 참견 시점"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Echappées Belles::0",
+    "kind": "series",
+    "title": "Echappées Belles",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Documentario"
+      ],
+      "franchise": "Echappées Belles",
+      "base_franchise": "echappées belles"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Binnelanders::0",
+    "kind": "series",
+    "title": "Binnelanders",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Soap"
+      ],
+      "franchise": "Binnelanders",
+      "base_franchise": "binnelanders"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Paradise Hotel::0",
+    "kind": "series",
+    "title": "Paradise Hotel",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Reality"
+      ],
+      "franchise": "Paradise Hotel",
+      "base_franchise": "paradise hotel"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Na Wspólnej::0",
+    "kind": "series",
+    "title": "Na Wspólnej",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Soap"
+      ],
+      "franchise": "Na Wspólnej",
+      "base_franchise": "na wspólnej"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Raw::0",
+    "kind": "series",
+    "title": "Raw",
+    "season_number": null,
+    "score": 2.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Reality"
+      ],
+      "franchise": "Raw",
+      "base_franchise": "raw"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Silo - S2::2",
+    "kind": "series",
+    "title": "Silo - S2",
+    "season_number": 2,
+    "score": 1.2,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "recent_catalog",
+      "bucket_bonus": 3.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "franchise": "Silo",
+      "base_franchise": "silo"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Foundation - S2::2",
+    "kind": "series",
+    "title": "Foundation - S2",
+    "season_number": 2,
+    "score": 1.2,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "recent_catalog",
+      "bucket_bonus": 3.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Sci-Fi",
+        "Drama"
+      ],
+      "franchise": "Foundation",
+      "base_franchise": "foundation"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::Blade Runner 2099::1",
+    "kind": "series",
+    "title": "Blade Runner 2099",
+    "season_number": 1,
+    "score": 0.4,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": 0.0,
+      "anime_penalty": 0.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "back_catalog",
+      "bucket_bonus": 1.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "franchise": "Blade Runner",
+      "base_franchise": "blade runner"
+    },
+    "already_present": false
+  },
+  {
+    "candidate_id": "series::I Griffin::0",
+    "kind": "series",
+    "title": "I Griffin",
+    "season_number": null,
+    "score": -7.2,
+    "reason": {
+      "source": "external_catalog",
+      "genre_score": -12.0,
+      "anime_penalty": 12.0,
+      "manual_genre_bonus": 0.0,
+      "franchise_score": 0,
+      "manual_favorite_bonus": 0.0,
+      "sequel_bonus": 0.0,
+      "multiuser_bonus": 0.0,
+      "bucket": "new_release",
+      "bucket_bonus": 6.0,
+      "priority_boost": 0,
+      "priority_bonus": 0.0,
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "franchise": "I Griffin",
+      "base_franchise": "i griffin"
+    },
+    "already_present": false
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "title": "The Last of Us - S2",
+    "kind": "series",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "franchise": "The Last of Us",
+    "bucket": "continuation",
+    "source": "manual_seed",
+    "release_date": "2025-01-01",
+    "year": 2025,
+    "season_number": 2,
+    "priority_boost": 3,
+    "notes": "Nuova stagione di serie già vista da più utenti",
+    "min_year": null
+  },
+  {
+    "title": "Severance - S2",
+    "kind": "series",
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "franchise": "Severance",
+    "bucket": "continuation",
+    "source": "manual_seed",
+    "release_date": "2025-01-01",
+    "year": 2025,
+    "season_number": 2,
+    "priority_boost": 3,
+    "notes": "Continuazione diretta"
+  },
+  {
+    "title": "Dune: Part Two",
+    "kind": "movie",
+    "genres": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "franchise": "Dune",
+    "bucket": "continuation",
+    "source": "manual_seed",
+    "release_date": "2024-03-01",
+    "year": 2024,
+    "season_number": null,
+    "priority_boost": 2,
+    "notes": "Sequel film già visto"
+  },
+  {
+    "title": "Fallout - S2",
+    "kind": "series",
+    "genres": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "franchise": "Fallout",
+    "bucket": "continuation",
+    "source": "manual_seed",
+    "release_date": "2025-01-01",
+    "year": 2025,
+    "season_number": 2,
+    "priority_boost": 2,
+    "notes": "Nuova stagione / continuità"
+  },
+  {
+    "title": "Mickey 17",
+    "kind": "movie",
+    "genres": [
+      "Sci-Fi",
+      "Drama"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "manual_seed",
+    "release_date": "2025-03-07",
+    "year": 2025,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Novità forte ma non continuation"
+  },
+  {
+    "title": "Foundation - S2",
+    "kind": "series",
+    "genres": [
+      "Sci-Fi",
+      "Drama"
+    ],
+    "franchise": "Foundation",
+    "bucket": "recent_catalog",
+    "source": "manual_seed",
+    "release_date": "2024-01-01",
+    "year": 2024,
+    "season_number": 2,
+    "priority_boost": 0,
+    "notes": "Affinità di genere, non seguito diretto"
+  },
+  {
+    "title": "Silo - S2",
+    "kind": "series",
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "franchise": "Silo",
+    "bucket": "recent_catalog",
+    "source": "manual_seed",
+    "release_date": "2025-01-01",
+    "year": 2025,
+    "season_number": 2,
+    "priority_boost": 0,
+    "notes": "Affinità alta, ma non ancora visto nel profilo simulato"
+  },
+  {
+    "title": "Blade Runner 2099",
+    "kind": "series",
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "franchise": "Blade Runner",
+    "bucket": "back_catalog",
+    "source": "manual_seed",
+    "release_date": "2025-01-01",
+    "year": 2025,
+    "season_number": 1,
+    "priority_boost": 0,
+    "notes": "Recupero forte per franchise affine"
+  }
+]

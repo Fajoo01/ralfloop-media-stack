@@ -1,0 +1,15 @@
+[Unit]
+Description=Jellyfin novita stats agent
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=sibilla-cumana
+WorkingDirectory=/opt/jellyfin-novita-agent
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/usr/bin/python3 /opt/jellyfin-novita-agent/jellyfin_novita_agent.py \
+  --config /opt/jellyfin-novita-agent/config.json \
+  --views-file /opt/jellyfin-novita-agent/views_90d.json \
+  --catalog-file /opt/jellyfin-novita-agent/external_catalog.json \
+  --execute

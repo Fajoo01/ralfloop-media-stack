@@ -1,0 +1,311 @@
+[
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/series",
+    "payload": {
+      "title": "Strike",
+      "season": 2,
+      "max_episodes": 4
+    },
+    "response": {
+      "status": "ok",
+      "kind": "series",
+      "title": "Strike",
+      "season": 2,
+      "output": "📺 **Serie:** Strike S2 (2 eps)\n\n🔹 Ep 01: ✅ Cormoran Strike 2x01 Il Baco Da Seta 2x01 Ita 720P.mkv\n🔹 Ep 02: ✅ Cormoran Strike 2x02 Il Baco Da Seta Ita 720P.mkv\n\n📌 **Riepilogo:** già su Jellyfin 0 • download OK 2 • falliti 0 • mancanti 0\n🗂️ Classifiche per episodio salvate in cache (last_search_results.json)."
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/series",
+    "payload": {
+      "title": "Strike",
+      "season": 2,
+      "start_episode": 1,
+      "max_episodes": 4
+    },
+    "response": {
+      "status": "ok",
+      "kind": "series",
+      "title": "Strike",
+      "season": 2,
+      "output": "📺 **Serie:** Strike S2 (2 eps)\n\n🔹 Ep 01: ✅ Cormoran Strike 2x01 Il Baco Da Seta 2x01 Ita 720P.mkv\n🔹 Ep 02: ✅ Cormoran Strike 2x02 Il Baco Da Seta Ita 720P.mkv\n\n📌 **Riepilogo:** già su Jellyfin 0 • download OK 2 • falliti 0 • mancanti 0\n🗂️ Classifiche per episodio salvate in cache (last_search_results.json)."
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/movie",
+    "payload": {
+      "query": "Zodiac (2007)"
+    },
+    "response": {
+      "status": "ok",
+      "kind": "movie",
+      "query": "Zodiac (2007)",
+      "output": "📭 Nulla per: **Zodiac**"
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/series",
+    "payload": {
+      "title": "Strike",
+      "season": 2,
+      "start_episode": 1,
+      "max_episodes": 4
+    },
+    "response": {
+      "status": "ok",
+      "kind": "series",
+      "title": "Strike",
+      "season": 2,
+      "output": "📺 **Serie:** Strike S2 (2 eps)\n\n🔹 Ep 01: ✅ Cormoran Strike 2x01 Il Baco Da Seta 2x01 Ita 720P.mkv\n🔹 Ep 02: ✅ Cormoran Strike 2x02 Il Baco Da Seta Ita 720P.mkv\n\n📌 **Riepilogo:** già su Jellyfin 0 • download OK 2 • falliti 0 • mancanti 0\n🗂️ Classifiche per episodio salvate in cache (last_search_results.json)."
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/movie",
+    "payload": {
+      "query": "Sicario (2015)"
+    },
+    "response": {
+      "status": "ok",
+      "kind": "movie",
+      "query": "Sicario (2015)",
+      "output": "📭 Nulla per: **Sicario**"
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/series",
+    "payload": {
+      "title": "Strike",
+      "season": 2,
+      "start_episode": 1,
+      "max_episodes": 4
+    },
+    "response": {
+      "status": "ok",
+      "kind": "series",
+      "title": "Strike",
+      "season": 2,
+      "output": "📺 **Serie:** Strike S2 (2 eps)\n\n🔹 Ep 01: ✅ Cormoran Strike 2x01 Il Baco Da Seta 2x01 Ita 720P.mkv\n🔹 Ep 02: ✅ Cormoran Strike 2x02 Il Baco Da Seta Ita 720P.mkv\n\n📌 **Riepilogo:** già su Jellyfin 0 • download OK 2 • falliti 0 • mancanti 0\n🗂️ Classifiche per episodio salvate in cache (last_search_results.json)."
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/movie",
+    "payload": {
+      "query": "Sicario (2015)"
+    },
+    "response": {
+      "status": "ok",
+      "kind": "movie",
+      "query": "Sicario (2015)",
+      "output": "🔎 Risultati per **Sicario (2015)**:\n\n🧪 Query usata: `Sicario 2015 ita`\n\n🚀 **AUTO-DL:** ✅ OK — Sicario (2015) 1080p H265 AC3 5.1 ITA ENG sub ita eng Ph4nt0mX.mkv\n\n| N | File | MB | Fonti | Score |\n|---|------|----|-------|-------|\n| 1 | Sicario (2015) 1080p H265 AC3 5.1 ITA ENG sub ita eng Ph4nt0mX.mkv | ? | ? | 880 |\n| 2 | Sicario 2015 BDRip 1080p Ita Eng x265-NAHOM.mkv | ? | ? | 840 |\n| 3 | Sicario [2015.1080p.HDR.ITA.ENG.AC3.Bkk.mkv | ? | ? | 840 |\n| 4 | Sicario (2015) 720p H264 AAC ITA ENG Sub ITA ENG.mkv | ? | ? | 850 |\n| 5 | Sicario.2015.DVDRip.Ac3.Ita.Eng.x264-lizaliza.mkv | ? | ? | 750 |\n| 6 | Sicario.2015.ITA.ENG.2160p.UHD.BluRay.x265-MeM.mkv | ? | ? | 450 |\n| 7 | Sicario.2015.iTALiAN.MD.BDRip.XviD-RACE.avi | ? | ? | 490 |\n| 8 | Sicario.2015.iTALiAN.BDRip.XviD-TRL.avi | ? | ? | 470 |\n| 9 | - Sicario - Film 2015 Italian Divx (Drammatico, thriller).avi | ? | ? | 390 |\n| 10 | Sicario - 2015.ITALiAN.AC3.BRRip.XviD-TTN.avi | ? | ? | 300 |"
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/series",
+    "payload": {
+      "title": "Strike",
+      "season": 3,
+      "start_episode": 1,
+      "max_episodes": 4
+    },
+    "response": {
+      "status": "ok",
+      "kind": "series",
+      "title": "Strike",
+      "season": 3,
+      "output": "📺 **Serie:** Strike S3 (2 eps)\n\n🔸 Ep 01: ⛔ nessun match stretto sul titolo serie\n🔸 Ep 02: ⛔ nessun match stretto sul titolo serie\n\n📌 **Riepilogo:** già su Jellyfin 0 • download OK 0 • falliti 0 • mancanti 2\n🗂️ Classifiche per episodio salvate in cache (last_search_results.json)."
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/movie",
+    "payload": {
+      "query": "Sicario (2015)"
+    },
+    "response": {
+      "status": "ok",
+      "kind": "movie",
+      "query": "Sicario (2015)",
+      "output": "🔎 Risultati per **Sicario (2015)**:\n\n🧪 Query usata: `Sicario 2015 ita`\n\n🚀 **AUTO-DL:** ✅ OK — Sicario (2015) 1080p H265 AC3 5.1 ITA ENG sub ita eng Ph4nt0mX.mkv\n\n| N | File | MB | Fonti | Score |\n|---|------|----|-------|-------|\n| 1 | Sicario (2015) 1080p H265 AC3 5.1 ITA ENG sub ita eng Ph4nt0mX.mkv | ? | ? | 880 |\n| 2 | Sicario (2015) 1080p H265 AC3 5.1 ITA ENG sub ita eng Ph4nt0mX.mkv | ? | ? | 880 |\n| 3 | Sicario.2015.iTA-ENG.Bluray.1080p.x264-TRL.mkv | ? | ? | 880 |\n| 4 | Sicario [2015.1080p.HDR.ITA.ENG.AC3.Bkk.mkv | ? | ? | 840 |\n| 5 | Sicario 2015 BDRip 1080p Ita Eng x265-NAHOM.mkv | ? | ? | 840 |\n| 6 | Sicario (2015) 720p H264 AAC ITA ENG Sub ITA ENG.mkv | ? | ? | 850 |\n| 7 | Sicario.2015.DVDRip.Ac3.Ita.Eng.x264-lizaliza.mkv | ? | ? | 680 |\n| 8 | 06 -Sicario -2015-ITA.mp4 | ? | ? | 550 |\n| 9 | Sicario.2015.iTALiAN.MD.BDRip.XviD-RACE.avi | ? | ? | 490 |\n| 10 | Sicario.2015.iTALiAN.BDRip.XviD-TRL.avi | ? | ? | 470 |"
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/series",
+    "payload": {
+      "title": "Strike",
+      "season": 3,
+      "start_episode": 1,
+      "max_episodes": 4
+    },
+    "response": {
+      "status": "ok",
+      "kind": "series",
+      "title": "Strike",
+      "season": 3,
+      "output": "📺 **Serie:** Strike S3 (2 eps)\n\n🔹 Ep 01: ✅ Strike.La.via.del.male.S03E01.ITA.ENG.1080p.AMZN.WEB-DLMux.H.264-MeM.mkv\n🔹 Ep 02: ✅ Strike.La.via.del.male.S03E02.ITA.ENG.1080p.AMZN.WEB-DLMux.H.264-MeM.mkv\n\n📌 **Riepilogo:** già su Jellyfin 0 • download OK 2 • falliti 0 • mancanti 0\n🗂️ Classifiche per episodio salvate in cache (last_search_results.json)."
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/movie",
+    "payload": {
+      "query": "Sicario (2015)"
+    },
+    "response": {
+      "status": "ok",
+      "kind": "movie",
+      "query": "Sicario (2015)",
+      "output": "🔎 Risultati per **Sicario (2015)**:\n\n🧪 Query usata: `Sicario 2015 ita`\n\n🚀 **AUTO-DL:** ✅ OK — Sicario (2015) 1080p H265 AC3 5.1 ITA ENG sub ita eng Ph4nt0mX.mkv\n\n| N | File | MB | Fonti | Score |\n|---|------|----|-------|-------|\n| 1 | Sicario (2015) 1080p H265 AC3 5.1 ITA ENG sub ita eng Ph4nt0mX.mkv | ? | ? | 880 |\n| 2 | Sicario 2015 BDRip 1080p Ita Eng x265-NAHOM.mkv | ? | ? | 870 |\n| 3 | Sicario [2015.1080p.HDR.ITA.ENG.AC3.Bkk.mkv | ? | ? | 840 |\n| 4 | Sicario (2015) 720p H264 AAC ITA ENG Sub ITA ENG.mkv | ? | ? | 850 |\n| 5 | Sicario.2015.DVDRip.Ac3.Ita.Eng.x264-lizaliza.mkv | ? | ? | 680 |\n| 6 | Sicario.2015.iTALiAN.MD.BDRip.XviD-RACE.avi | ? | ? | 490 |\n| 7 | Sicario.2015.iTALiAN.BDRip.XviD-TRL.avi | ? | ? | 470 |\n| 8 | - Sicario - Film 2015 Italian Divx (Drammatico, thriller).avi | ? | ? | 420 |\n| 9 | Sicario.2015.ITALiAN.AC3.BRRip.XviD-TTN.avi | ? | ? | 300 |\n| 10 | Sicario.2015.iTALiAN.AC3.DVDRip.XviD-CRiME.avi | ? | ? | 280 |"
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/series",
+    "payload": {
+      "title": "Strike",
+      "season": 6,
+      "start_episode": 1,
+      "max_episodes": 4
+    },
+    "response": {
+      "status": "ok",
+      "kind": "series",
+      "title": "Strike",
+      "season": 6,
+      "output": "📺 **Serie:** Strike S6 (4 eps)\n\n🔹 Ep 01: ✅ STRIKE 6x01 (WEBDL-ITA) MAKASERO.mkv\n🔹 Ep 02: ✅ Detective Cormoran Strike 6x02 aac ITALIAN x264 1920x960p.mkv\n🔹 Ep 03: ✅ Detective Cormoran Strike 6x03 aac ITALIAN x264 1920x960p.mkv\n🔹 Ep 04: 🛡️ Già su Jellyfin\n\n📌 **Riepilogo:** già su Jellyfin 1 • download OK 3 • falliti 0 • mancanti 0\n🗂️ Classifiche per episodio salvate in cache (last_search_results.json)."
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/movie",
+    "payload": {
+      "query": "Sicario (2015)"
+    },
+    "response": {
+      "status": "ok",
+      "kind": "movie",
+      "query": "Sicario (2015)",
+      "output": "🔎 Risultati per **Sicario (2015)**:\n\n🧪 Query usata: `Sicario 2015 ita`\n\n🚀 **AUTO-DL:** ✅ OK — Sicario (2015) 1080p H265 AC3 5.1 ITA ENG sub ita eng Ph4nt0mX.mkv\n\n| N | File | MB | Fonti | Score |\n|---|------|----|-------|-------|\n| 1 | Sicario (2015) 1080p H265 AC3 5.1 ITA ENG sub ita eng Ph4nt0mX.mkv | ? | ? | 880 |\n| 2 | Sicario 2015 BDRip 1080p Ita Eng x265-NAHOM.mkv | ? | ? | 910 |\n| 3 | Sicario.2015.iTA-ENG.Bluray.1080p.x264-TRL.mkv | ? | ? | 880 |\n| 4 | Sicario [2015.1080p.HDR.ITA.ENG.AC3.Bkk.mkv | ? | ? | 830 |\n| 5 | Sicario.2015.ITA-ENG.BRRip.720p-P92.mkv | ? | ? | 770 |\n| 6 | Sicario.2015.DVDRip.Ac3.Ita.Eng.x264-lizaliza.mkv | ? | ? | 690 |\n| 7 | Sicario.2015.iTALiAN.BDRip.XviD-TRL.avi | ? | ? | 470 |\n| 8 | Sicario.2015.iTALiAN.MD.BDRip.XviD-RACE.avi | ? | ? | 460 |\n| 9 | - Sicario - Film 2015 Italian Divx (Drammatico, thriller).avi | ? | ? | 420 |\n| 10 | Sicario.2015.ITALiAN.AC3.BRRip.XviD-TTN.avi | ? | ? | 280 |"
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/series",
+    "payload": {
+      "title": "Strike",
+      "season": 6,
+      "start_episode": 1,
+      "max_episodes": 4
+    },
+    "response": {
+      "status": "ok",
+      "kind": "series",
+      "title": "Strike",
+      "season": 6,
+      "output": "📺 **Serie:** Strike S6 (4 eps)\n\n🔹 Ep 01: ✅ STRIKE 6x01 (WEBDL-ITA) MAKASERO.mkv\n🔹 Ep 02: 🛡️ Già su Jellyfin\n🔹 Ep 03: 🛡️ Già su Jellyfin\n🔹 Ep 04: 🛡️ Già su Jellyfin\n\n📌 **Riepilogo:** già su Jellyfin 3 • download OK 1 • falliti 0 • mancanti 0\n🗂️ Classifiche per episodio salvate in cache (last_search_results.json)."
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/movie",
+    "payload": {
+      "query": "Sicario (2015)"
+    },
+    "response": {
+      "status": "ok",
+      "kind": "movie",
+      "query": "Sicario (2015)",
+      "output": "🔎 Risultati per **Sicario (2015)**:\n\n🧪 Query usata: `Sicario 2015 ita`\n\n🚀 **AUTO-DL:** ⚠️ FALLITO — Sicario (2015) 1080p H265 AC3 5.1 ITA ENG sub ita eng Ph4nt0mX.mkv\n\n| N | File | MB | Fonti | Score |\n|---|------|----|-------|-------|\n| 1 | Sicario (2015) 1080p H265 AC3 5.1 ITA ENG sub ita eng Ph4nt0mX.mkv | ? | ? | 880 |\n| 2 | Sicario 2015 BDRip 1080p Ita Eng x265-NAHOM.mkv | ? | ? | 890 |\n| 3 | Sicario.2015.iTA-ENG.Bluray.1080p.x264-TRL.mkv | ? | ? | 880 |\n| 4 | Sicario [2015.1080p.HDR.ITA.ENG.AC3.Bkk.mkv | ? | ? | 840 |\n| 5 | Sicario.2015.ITA-ENG.BRRip.720p-P92.mkv | ? | ? | 770 |\n| 6 | Sicario.2015.DVDRip.Ac3.Ita.Eng.x264-lizaliza.mkv | ? | ? | 750 |\n| 7 | Sicario.2015.iTALiAN.BDRip.XviD-TRL.avi | ? | ? | 470 |\n| 8 | Sicario.2015.iTALiAN.MD.BDRip.XviD-RACE.avi | ? | ? | 470 |\n| 9 | - Sicario - Film 2015 Italian Divx (Drammatico, thriller).avi | ? | ? | 440 |\n| 10 | Sicario.2015.ITA.ENG.2160p.UHD.BluRay.x265-MeM.mkv | ? | ? | 450 |"
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/series",
+    "payload": {
+      "title": "Strike",
+      "season": 6,
+      "start_episode": 1,
+      "max_episodes": 4
+    },
+    "response": {
+      "status": "ok",
+      "kind": "series",
+      "title": "Strike",
+      "season": 6,
+      "output": "📺 **Serie:** Strike S6 (4 eps)\n\n🔹 Ep 01: ✅ Strike.S06E01.The.Ink.Black.Heart.Part.1.WEB-DLRip.ITA.AAC.x264-CMP.MoD.mkv\n🔹 Ep 02: 🛡️ Già su Jellyfin\n🔹 Ep 03: 🛡️ Già su Jellyfin\n🔹 Ep 04: 🛡️ Già su Jellyfin\n\n📌 **Riepilogo:** già su Jellyfin 3 • download OK 1 • falliti 0 • mancanti 0\n🗂️ Classifiche per episodio salvate in cache (last_search_results.json)."
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/movie",
+    "payload": {
+      "query": "Sicario (2015)"
+    },
+    "response": {
+      "status": "ok",
+      "kind": "movie",
+      "query": "Sicario (2015)",
+      "output": "📭 Nulla per: **Sicario**"
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/series",
+    "payload": {
+      "title": "Strike",
+      "season": 6,
+      "start_episode": 1,
+      "max_episodes": 4
+    },
+    "response": {
+      "status": "ok",
+      "kind": "series",
+      "title": "Strike",
+      "season": 6,
+      "output": "📺 **Serie:** Strike S6 (4 eps)\n\n🔹 Ep 01: ⚠️ FALLITO — Strike.6x01.Un.Cuore.Nero.Inchiostro.ITA-ENG.1080p.WEB-DLMux.h264-LFi.mkv\n🔹 Ep 02: 🛡️ Già su Jellyfin\n🔹 Ep 03: 🛡️ Già su Jellyfin\n🔹 Ep 04: 🛡️ Già su Jellyfin\n\n📌 **Riepilogo:** già su Jellyfin 3 • download OK 0 • falliti 1 • mancanti 0\n🗂️ Classifiche per episodio salvate in cache (last_search_results.json)."
+    }
+  },
+  {
+    "status": "ok",
+    "status_code": 200,
+    "target": "http://10.252.14.7:1865/custom/peppule/series",
+    "payload": {
+      "title": "Strike",
+      "season": 6,
+      "start_episode": 1,
+      "max_episodes": 4
+    },
+    "response": {
+      "status": "ok",
+      "kind": "series",
+      "title": "Strike",
+      "season": 6,
+      "output": "📺 **Serie:** Strike S6 (4 eps)\n\n🔹 Ep 01: ⚠️ FALLITO — Strike.S06E01.The.Ink.Black.Heart.Part.1.WEB-DLRip.ITA.AAC.x264-CMP.MoD.mkv\n🔹 Ep 02: 🛡️ Già su Jellyfin\n🔹 Ep 03: 🛡️ Già su Jellyfin\n🔹 Ep 04: 🛡️ Già su Jellyfin\n\n📌 **Riepilogo:** già su Jellyfin 3 • download OK 0 • falliti 1 • mancanti 0\n🗂️ Classifiche per episodio salvate in cache (last_search_results.json)."
+    }
+  }
+]

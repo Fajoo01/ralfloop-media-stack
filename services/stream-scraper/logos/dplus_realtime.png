@@ -1,0 +1,8 @@
+{
+  "errors" : [ {
+    "status" : "404",
+    "code" : "not.found",
+    "id" : "PZMGKn2IMM",
+    "detail" : "no resource for path"
+  } ]
+}

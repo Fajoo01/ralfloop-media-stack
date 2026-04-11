@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jellyfin Novità GUI</title>
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-100">
+  <div id="root"></div>
+  <pre id="err" style="white-space:pre-wrap;color:red;padding:12px;"></pre>
+
+  <script>
+    const err = (msg) => {
+      document.getElementById('err').textContent = String(msg);
+      console.error(msg);
+    };
+
+    window.onerror = function(msg, src, line, col) {
+      err('JS ERROR: ' + msg + '\n' + (src || '') + ':' + (line || '') + ':' + (col || ''));
+    };
+
+    async function boot() {
+      try {
+        const res = await fetch('./jellyfin_novita_gui_connected.jsx');
+        const code = await res.text();
+
+        const transformed = Babel.transform(code, {
+          presets: ['react'],
+          filename: 'jellyfin_novita_gui_connected.jsx'
+        }).code;
+
+        const script = document.createElement('script');
+        script.text = transformed + '\n' +
+          'const root = ReactDOM.createRoot(document.getElementById("root"));' +
+          'root.render(React.createElement(JellyfinNovitaGUIConnected));';
+        document.body.appendChild(script);
+      } catch (e) {
+        err(e && e.stack ? e.stack : e);
+      }
+    }
+
+    boot();
+  </script>
+</body>
+</html>

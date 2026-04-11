@@ -1,0 +1,2366 @@
+[
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "88a5cb5c6005bd689068408f4d1a4ea1",
+    "title": "Io sono nessuno 2",
+    "kind": "movie",
+    "genres": [
+      "Azione",
+      "Thriller"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Bob Odenkirk",
+      "Connie Nielsen",
+      "John Ortiz",
+      "Colin Hanks",
+      "RZA"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-04-10 19:27:58.4550197",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 4995
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "003a940a58e6bbe2986d8c3f79436fe3",
+    "title": "Strike",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Ben Richards"
+    ],
+    "cast": [
+      "Tom Burke",
+      "Holliday Grainger",
+      "Kerr Logan",
+      "Martin Shaw",
+      "David Avery"
+    ],
+    "series_name": "Strike",
+    "season_number": 1,
+    "played_at": "2026-04-10 17:59:21.0636696",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 3372
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "55ac3074b2cd03c4e82e3273646899e0",
+    "title": "September 5 - La diretta che cambiò la storia",
+    "kind": "movie",
+    "genres": [
+      "Dramma",
+      "Storia",
+      "Thriller"
+    ],
+    "director": null,
+    "writers": [
+      "Moritz Binder",
+      "Tim Fehlbaum"
+    ],
+    "cast": [
+      "Peter Sarsgaard",
+      "John Magaro",
+      "Ben Chaplin",
+      "Leonie Benesch",
+      "Zinedine Soualem"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-04-09 19:03:20.6833145",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 5575
+  },
+  {
+    "user_id": "04e2bda3c5fe4e80a253558d9ae2a3ae",
+    "item_id": "55ac3074b2cd03c4e82e3273646899e0",
+    "title": "September 5 - La diretta che cambiò la storia",
+    "kind": "movie",
+    "genres": [
+      "Dramma",
+      "Storia",
+      "Thriller"
+    ],
+    "director": null,
+    "writers": [
+      "Moritz Binder",
+      "Tim Fehlbaum"
+    ],
+    "cast": [
+      "Peter Sarsgaard",
+      "John Magaro",
+      "Ben Chaplin",
+      "Leonie Benesch",
+      "Zinedine Soualem"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-04-09 18:49:32.7533221",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 5651
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "55ac3074b2cd03c4e82e3273646899e0",
+    "title": "September 5 - La diretta che cambiò la storia",
+    "kind": "movie",
+    "genres": [
+      "Dramma",
+      "Storia",
+      "Thriller"
+    ],
+    "director": null,
+    "writers": [
+      "Moritz Binder",
+      "Tim Fehlbaum"
+    ],
+    "cast": [
+      "Peter Sarsgaard",
+      "John Magaro",
+      "Ben Chaplin",
+      "Leonie Benesch",
+      "Zinedine Soualem"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-04-09 18:12:25.3356548",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 5326
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "e11775fe36a42ec8851ef0a3d677350f",
+    "title": "The Irrational",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Mark Goffman"
+    ],
+    "cast": [
+      "Jesse L. Martin",
+      "Maahra Hill",
+      "Travina Springer",
+      "Molly Kunz",
+      "Arash DeMaxi"
+    ],
+    "series_name": "The Irrational",
+    "season_number": 1,
+    "played_at": "2026-04-07 11:46:48.5084801",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2105
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "a8701f75aba692c57c70264e2b9b19e0",
+    "title": "Young Sherlock",
+    "kind": "series",
+    "genres": [
+      "Action & Adventure",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Hero Fiennes Tiffin",
+      "Dónal Finn",
+      "Zine Tseng",
+      "Joseph Fiennes",
+      "Natascha McElhone"
+    ],
+    "series_name": "Young Sherlock",
+    "season_number": 1,
+    "played_at": "2026-04-07 10:46:06.1143257",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2721
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "febfa0d7e0d0be3343f32c4cf996af0f",
+    "title": "Scarpetta",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Elizabeth Sarnoff"
+    ],
+    "cast": [
+      "Nicole Kidman",
+      "Jamie Lee Curtis",
+      "Bobby Cannavale",
+      "Simon Baker",
+      "Rosy McEwen"
+    ],
+    "series_name": "Scarpetta",
+    "season_number": 1,
+    "played_at": "2026-04-07 09:26:28.0142863",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 1849
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "f7ebea83796bff9ae3cc573ba66b7f1d",
+    "title": "Scarpetta",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Alison Balian"
+    ],
+    "cast": [
+      "Nicole Kidman",
+      "Jamie Lee Curtis",
+      "Bobby Cannavale",
+      "Simon Baker",
+      "Rosy McEwen"
+    ],
+    "series_name": "Scarpetta",
+    "season_number": 1,
+    "played_at": "2026-04-06 20:24:20.9615006",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2712
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "9501e7a8a57141ab450f329f9cdf7163",
+    "title": "Strike",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Tom Edge"
+    ],
+    "cast": [
+      "Tom Burke",
+      "Holliday Grainger",
+      "Jack Greenlees"
+    ],
+    "series_name": "Strike",
+    "season_number": 5,
+    "played_at": "2026-04-05 18:07:09.6994175",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 3802
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "52010fdc95a00c53f23bb0914c425cbc",
+    "title": "The Newsroom",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Aaron Sorkin"
+    ],
+    "cast": [
+      "Jeff Daniels",
+      "Emily Mortimer",
+      "John Gallagher Jr.",
+      "Alison Pill",
+      "Thomas Sadoski"
+    ],
+    "series_name": "The Newsroom",
+    "season_number": 1,
+    "played_at": "2026-04-05 16:59:33.9128799",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2114
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "e35d88f540ab7af687e94c03b6b85d16",
+    "title": "Scarpetta",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Maisha Closson"
+    ],
+    "cast": [
+      "Nicole Kidman",
+      "Jamie Lee Curtis",
+      "Bobby Cannavale",
+      "Simon Baker",
+      "Rosy McEwen"
+    ],
+    "series_name": "Scarpetta",
+    "season_number": 1,
+    "played_at": "2026-04-05 16:10:13.6342639",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2918
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "58c007dfe9d50bdea9e0f58791b2f4c4",
+    "title": "Scarpetta",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Matthew Zucker"
+    ],
+    "cast": [
+      "Nicole Kidman",
+      "Jamie Lee Curtis",
+      "Bobby Cannavale",
+      "Simon Baker",
+      "Rosy McEwen"
+    ],
+    "series_name": "Scarpetta",
+    "season_number": 1,
+    "played_at": "2026-04-05 15:17:31.2503635",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2878
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "339dc66f080b1920b6353cfdc604bcaa",
+    "title": "Scarpetta",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Ahmadu Garba"
+    ],
+    "cast": [
+      "Nicole Kidman",
+      "Jamie Lee Curtis",
+      "Bobby Cannavale",
+      "Simon Baker",
+      "Rosy McEwen"
+    ],
+    "series_name": "Scarpetta",
+    "season_number": 1,
+    "played_at": "2026-04-05 14:03:12.3009778",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2816
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "e48eb18a37176cf27ba843b62d21e195",
+    "title": "Monarch: Legacy of Monsters",
+    "kind": "series",
+    "genres": [
+      "Action & Adventure",
+      "Dramma",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Andrew Colville"
+    ],
+    "cast": [
+      "Anna Sawai",
+      "Kiersey Clemons",
+      "Ren Watabe",
+      "Mari Yamamoto",
+      "Anders Holm"
+    ],
+    "series_name": "Monarch: Legacy of Monsters",
+    "season_number": 1,
+    "played_at": "2026-04-05 13:18:46.2511467",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2511
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "2d4a8318f331c5d0f4b378944bcfc948",
+    "title": "Monarch: Legacy of Monsters",
+    "kind": "series",
+    "genres": [
+      "Action & Adventure",
+      "Dramma",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Chris Black"
+    ],
+    "cast": [
+      "Anna Sawai",
+      "Kiersey Clemons",
+      "Ren Watabe",
+      "Mari Yamamoto",
+      "Anders Holm"
+    ],
+    "series_name": "Monarch: Legacy of Monsters",
+    "season_number": 1,
+    "played_at": "2026-04-05 12:32:17.942631",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2780
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "f2472ef3dc45148cb420bacb869f99b7",
+    "title": "Strike",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [],
+    "series_name": "Strike",
+    "season_number": 2,
+    "played_at": "2026-04-05 11:10:25.4957085",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 1844
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "57ecc3fff1d40ca0740fa747cd5d0dd2",
+    "title": "Monarch: Legacy of Monsters",
+    "kind": "series",
+    "genres": [
+      "Action & Adventure",
+      "Dramma",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Chris Black"
+    ],
+    "cast": [
+      "Anna Sawai",
+      "Kiersey Clemons",
+      "Ren Watabe",
+      "Mari Yamamoto",
+      "Anders Holm"
+    ],
+    "series_name": "Monarch: Legacy of Monsters",
+    "season_number": 1,
+    "played_at": "2026-04-04 16:47:02.6780547",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 1700
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "8eb830586537463a7ecd5abad8fd0df6",
+    "title": "Marshals: A Yellowstone Story",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Tom Mularz"
+    ],
+    "cast": [
+      "Luke Grimes",
+      "Logan Marshall-Green",
+      "Arielle Kebbel",
+      "Ash Santos",
+      "Tatanka Means"
+    ],
+    "series_name": "Marshals: A Yellowstone Story",
+    "season_number": 1,
+    "played_at": "2026-04-04 16:02:49.5741623",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2578
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "81210910d3a1819784d363225f4dd8e0",
+    "title": "The Irrational",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Jesse L. Martin",
+      "Maahra Hill",
+      "Travina Springer",
+      "Molly Kunz",
+      "Arash DeMaxi"
+    ],
+    "series_name": "The Irrational",
+    "season_number": 1,
+    "played_at": "2026-04-04 12:55:53.1912658",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2518
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "843ce86049af8606066663afefe86c0a",
+    "title": "Scarpetta",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Iturri Sosa"
+    ],
+    "cast": [
+      "Nicole Kidman",
+      "Jamie Lee Curtis",
+      "Bobby Cannavale",
+      "Simon Baker",
+      "Rosy McEwen"
+    ],
+    "series_name": "Scarpetta",
+    "season_number": 1,
+    "played_at": "2026-04-03 20:13:20.456921",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2753
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "5a65bfc8c8d4ca3db01004c9b9cf5d89",
+    "title": "The Irrational",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Jesse L. Martin",
+      "Maahra Hill",
+      "Travina Springer",
+      "Molly Kunz",
+      "Arash DeMaxi"
+    ],
+    "series_name": "The Irrational",
+    "season_number": 1,
+    "played_at": "2026-04-03 16:34:47.3886874",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2554
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "88ed03af6984f671b851986b4e07dfec",
+    "title": "Strike",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [],
+    "series_name": "Strike",
+    "season_number": 2,
+    "played_at": "2026-04-03 10:51:34.2348195",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 3396
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "9868bd446f37ead9b810870e37acaa2b",
+    "title": "The Irrational",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Jesse L. Martin",
+      "Maahra Hill",
+      "Travina Springer",
+      "Molly Kunz",
+      "Arash DeMaxi"
+    ],
+    "series_name": "The Irrational",
+    "season_number": 1,
+    "played_at": "2026-04-02 16:32:17.5642247",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2272
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "f3bd155c1fb68c113e25cc4e33c48b96",
+    "title": "The Irrational",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Jesse L. Martin",
+      "Maahra Hill",
+      "Travina Springer",
+      "Molly Kunz",
+      "Arash DeMaxi"
+    ],
+    "series_name": "The Irrational",
+    "season_number": 1,
+    "played_at": "2026-04-02 11:44:27.2553209",
+    "completed": false,
+    "progress": 0.6,
+    "play_duration": 1187
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "2fb8ce4cd355558354f40cf0b42a62ff",
+    "title": "Scarpetta",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Elizabeth Sarnoff"
+    ],
+    "cast": [
+      "Nicole Kidman",
+      "Jamie Lee Curtis",
+      "Bobby Cannavale",
+      "Simon Baker",
+      "Rosy McEwen"
+    ],
+    "series_name": "Scarpetta",
+    "season_number": 1,
+    "played_at": "2026-04-01 21:55:39.3416446",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 1800
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "81ed578d9bbaebf6838f70851b078c73",
+    "title": "Strike",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [],
+    "series_name": "Strike",
+    "season_number": 1,
+    "played_at": "2026-04-01 11:14:22.9007715",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2249
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "78e7aea8acdad0c7cc366baa2b03f4fa",
+    "title": "Giovanna d'Arco",
+    "kind": "movie",
+    "genres": [
+      "Avventura",
+      "Azione",
+      "Dramma",
+      "Guerra",
+      "Storia"
+    ],
+    "director": null,
+    "writers": [
+      "Andrew Birkin"
+    ],
+    "cast": [
+      "Milla Jovovich",
+      "John Malkovich",
+      "Faye Dunaway",
+      "Dustin Hoffman",
+      "Pascal Greggory"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-03-31 19:34:14.3332945",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 5004
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "a13cd1f403c390286651c14ece580e4f",
+    "title": "Marshals: A Yellowstone Story",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Spencer Hudnut"
+    ],
+    "cast": [
+      "Luke Grimes",
+      "Logan Marshall-Green",
+      "Arielle Kebbel",
+      "Ash Santos",
+      "Tatanka Means"
+    ],
+    "series_name": "Marshals: A Yellowstone Story",
+    "season_number": 1,
+    "played_at": "2026-03-30 20:07:14.5852821",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2527
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "b9cd9f5ce2e93038ec07e7305d5479ba",
+    "title": "Il testamento di Ann Lee",
+    "kind": "movie",
+    "genres": [
+      "Dramma",
+      "Musica",
+      "Storia"
+    ],
+    "director": null,
+    "writers": [
+      "Brady Corbet",
+      "Mona Fastvold"
+    ],
+    "cast": [
+      "Amanda Seyfried",
+      "Lewis Pullman",
+      "Thomasin McKenzie",
+      "Matthew Beard",
+      "Christopher Abbott"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-03-30 18:30:03.5856447",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 5435
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "caabb01f3ea5fe3dd9681f0c43bd784f",
+    "title": "Strike",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [],
+    "series_name": "Strike",
+    "season_number": 1,
+    "played_at": "2026-03-30 11:18:48.533111",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2031
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "d36ebb7483e20e1bd48d03110deb781e",
+    "title": "Fondazione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "David S. Goyer",
+      "Josh Friedman"
+    ],
+    "cast": [
+      "Jared Harris",
+      "Lee Pace",
+      "Lou Llobell",
+      "Leah Harvey",
+      "Laura Birn"
+    ],
+    "series_name": "Fondazione",
+    "season_number": 1,
+    "played_at": "2026-03-29 20:52:38.896913",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 4157
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "4c2a8da596836710758208145bb8cfed",
+    "title": "Marshals: A Yellowstone Story",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Spencer Hudnut"
+    ],
+    "cast": [
+      "Luke Grimes",
+      "Logan Marshall-Green",
+      "Arielle Kebbel",
+      "Ash Santos",
+      "Tatanka Means"
+    ],
+    "series_name": "Marshals: A Yellowstone Story",
+    "season_number": 1,
+    "played_at": "2026-03-29 20:08:53.6924071",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2549
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "f504eddf642522f90754d6b391472d9a",
+    "title": "I figli degli uomini",
+    "kind": "movie",
+    "genres": [
+      "Fantascienza",
+      "Thriller"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Clive Owen",
+      "Clare-Hope Ashitey",
+      "Chiwetel Ejiofor",
+      "Julianne Moore",
+      "Michael Caine"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-03-29 17:57:46.6734687",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 6322
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "353568d6662263aa043f8086f2b9b61c",
+    "title": "Strike",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [],
+    "series_name": "Strike",
+    "season_number": 1,
+    "played_at": "2026-03-29 11:52:19.7524156",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2381
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "20fc1d71fbda2d6de3774b33c0f386b4",
+    "title": "M - Il mostro di Düsseldorf",
+    "kind": "movie",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Peter Lorre",
+      "Ellen Widmann",
+      "Inge Landgut",
+      "Otto Wernicke",
+      "Theodor Loos"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-03-28 19:49:34.8364027",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 6586
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "20fc1d71fbda2d6de3774b33c0f386b4",
+    "title": "M - Il mostro di Düsseldorf",
+    "kind": "movie",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Peter Lorre",
+      "Ellen Widmann",
+      "Inge Landgut",
+      "Otto Wernicke",
+      "Theodor Loos"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-03-28 19:46:42.1175344",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 4959
+  },
+  {
+    "user_id": "04e2bda3c5fe4e80a253558d9ae2a3ae",
+    "item_id": "20fc1d71fbda2d6de3774b33c0f386b4",
+    "title": "M - Il mostro di Düsseldorf",
+    "kind": "movie",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Peter Lorre",
+      "Ellen Widmann",
+      "Inge Landgut",
+      "Otto Wernicke",
+      "Theodor Loos"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-03-28 18:59:56.2914996",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 6618
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "3c4e6ca4576f7b98400962666eec2d39",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Dan Erickson"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 2,
+    "played_at": "2026-03-27 17:53:43.4694901",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 3536
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "f6ae4abbc17594f9f51b1b62f604d373",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Dan Erickson"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 2,
+    "played_at": "2026-03-27 11:11:41.6128717",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2098
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "7ac36e6a4f5344b23e8d1b129ba6ed1f",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Adam Countee",
+      "K.C. Perry"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 2,
+    "played_at": "2026-03-27 10:34:06.931202",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2246
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "12c87f02f63f0efbda17be4e2e030e5e",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Dan Erickson",
+      "Mark Friedman"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 2,
+    "played_at": "2026-03-26 21:23:40.2285342",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2700
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "c84ccf76a08914e0163ce772ffad2e8d",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Erin Wagoner"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 2,
+    "played_at": "2026-03-26 17:09:25.0220518",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2984
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "6fd60635ce5ee9460e1061bc4d4aaa60",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Megan Ritchie"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 2,
+    "played_at": "2026-03-26 16:19:52.8959609",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 1901
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "37970fb0617b6af22b74a72a836f5c2b",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Anna Ouyang Moench"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 2,
+    "played_at": "2026-03-26 11:34:20.3616697",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2448
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "110c26117c70e6f5c1a8e22ab7782ca2",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Mohamad El Masri"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 2,
+    "played_at": "2026-03-25 21:45:03.8936492",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2825
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "2dc41cf073adef8084075f2b8d8e6857",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Dan Erickson"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 2,
+    "played_at": "2026-03-25 19:29:44.6427265",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 1768
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "43deb24d9827b2b30e835b9da106b296",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Dan Erickson"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 1,
+    "played_at": "2026-03-25 17:28:37.755022",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2260
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "7f4f9a6b6d288ce8637e9714a477c65a",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Chris Black"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 1,
+    "played_at": "2026-03-25 14:20:54.8371535",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 1874
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "9b73966b292d05b08d101f039bc7fb7b",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Helen Leigh"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 1,
+    "played_at": "2026-03-25 11:16:50.4754716",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2977
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "242752849ad7701ac467084683bb3068",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Amanda Overton"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 1,
+    "played_at": "2026-03-24 11:35:24.567773",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 1713
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "eb1d7366243365e9701aee7c8c712112",
+    "title": "The Newsroom",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Aaron Sorkin"
+    ],
+    "cast": [
+      "Jeff Daniels",
+      "Emily Mortimer",
+      "John Gallagher Jr.",
+      "Alison Pill",
+      "Thomas Sadoski"
+    ],
+    "series_name": "The Newsroom",
+    "season_number": 3,
+    "played_at": "2026-03-24 10:12:49.1878304",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 3730
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "600d316da6a298a952a3ae10a3e0cc08",
+    "title": "The Irrational",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Jesse L. Martin",
+      "Maahra Hill",
+      "Travina Springer",
+      "Molly Kunz",
+      "Arash DeMaxi"
+    ],
+    "series_name": "The Irrational",
+    "season_number": 1,
+    "played_at": "2026-03-23 21:13:22.2459825",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2481
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "14f9894fb01d5120d3303537300d4a94",
+    "title": "The Newsroom",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Aaron Sorkin"
+    ],
+    "cast": [
+      "Jeff Daniels",
+      "Emily Mortimer",
+      "John Gallagher Jr.",
+      "Alison Pill",
+      "Thomas Sadoski"
+    ],
+    "series_name": "The Newsroom",
+    "season_number": 3,
+    "played_at": "2026-03-23 16:59:57.5384187",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 3287
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "967c07cff96d5439126b86d207616d7e",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Kari Drake"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 1,
+    "played_at": "2026-03-22 21:20:14.7935878",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2754
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "9ceefbddd3d354e58bd0dce672897b92",
+    "title": "The Irrational",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [],
+    "series_name": "The Irrational",
+    "season_number": 1,
+    "played_at": "2026-03-22 16:49:07.5782737",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2512
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "a1e8f0f44314df5ac5ed9e3e5be64083",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Dan Erickson"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 1,
+    "played_at": "2026-03-22 15:48:44.7134472",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 3160
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "7b6ee48ec484cb13f143121e26c3cc89",
+    "title": "Scissione",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": null,
+    "writers": [
+      "Dan Erickson"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Tramell Tillman",
+      "Zach Cherry",
+      "Jen Tullock"
+    ],
+    "series_name": "Scissione",
+    "season_number": 1,
+    "played_at": "2026-03-22 10:59:14.0833296",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 3404
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "15c4987d986d551508e53caeeb407162",
+    "title": "The Irrational",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Jesse L. Martin",
+      "Maahra Hill",
+      "Travina Springer",
+      "Molly Kunz",
+      "Arash DeMaxi"
+    ],
+    "series_name": "The Irrational",
+    "season_number": 1,
+    "played_at": "2026-03-21 17:45:44.4276937",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2555
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "ebe262099ffdde6de21bb1ec65f9a21c",
+    "title": "The Newsroom",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Aaron Sorkin"
+    ],
+    "cast": [
+      "Jeff Daniels",
+      "Emily Mortimer",
+      "John Gallagher Jr.",
+      "Alison Pill",
+      "Thomas Sadoski"
+    ],
+    "series_name": "The Newsroom",
+    "season_number": 2,
+    "played_at": "2026-03-21 16:50:06.3347553",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 3313
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "0aad1967c510f9e7f46cf21fdc1ef866",
+    "title": "The Newsroom",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Aaron Sorkin"
+    ],
+    "cast": [
+      "Jeff Daniels",
+      "Emily Mortimer",
+      "John Gallagher Jr.",
+      "Alison Pill",
+      "Thomas Sadoski"
+    ],
+    "series_name": "The Newsroom",
+    "season_number": 2,
+    "played_at": "2026-03-21 15:31:40.4639093",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 3326
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "53cb451762d129e6791f3700030f407e",
+    "title": "The Irrational",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [],
+    "series_name": "The Irrational",
+    "season_number": 1,
+    "played_at": "2026-03-21 12:13:26.2478057",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2086
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "eb4f2cbcead03c526d346a62a9b1ff8c",
+    "title": "The Irrational",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Arika Lisanne Mittman"
+    ],
+    "cast": [
+      "Jesse L. Martin",
+      "Maahra Hill",
+      "Travina Springer",
+      "Molly Kunz",
+      "Arash DeMaxi"
+    ],
+    "series_name": "The Irrational",
+    "season_number": 1,
+    "played_at": "2026-03-20 21:20:49.6766868",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2521
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "de0c0a87c2b668d6dceae753e82bb2c3",
+    "title": "Scarpetta",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Elizabeth Sarnoff"
+    ],
+    "cast": [
+      "Nicole Kidman",
+      "Jamie Lee Curtis",
+      "Bobby Cannavale",
+      "Simon Baker",
+      "Rosy McEwen"
+    ],
+    "series_name": "Scarpetta",
+    "season_number": 1,
+    "played_at": "2026-03-20 17:13:01.276137",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2940
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "50511601ec2a12cc2123b890a38dcdb5",
+    "title": "Joseph",
+    "kind": "series",
+    "genres": [
+      "Commedia"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Lucien Jean-Baptiste",
+      "Firmine Richard",
+      "Claire Borotra",
+      "Alexis Tomassian",
+      "Jean-Philippe Puymartin"
+    ],
+    "series_name": "Joseph",
+    "season_number": 1,
+    "played_at": "2026-03-20 11:24:52.6806233",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 1222
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "f4c25516e4fb5b13898462ce0382898a",
+    "title": "Il pranzo di Babette",
+    "kind": "movie",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Storia"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Stéphane Audran",
+      "Bodil Kjer",
+      "Birgitte Federspiel",
+      "Jarl Kulle",
+      "Jean-Philippe Lafont"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-03-18 20:02:20.4022838",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 6130
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "42c80a4e186854cc9fa8d4cc5368715a",
+    "title": "Young Sherlock",
+    "kind": "series",
+    "genres": [
+      "Action & Adventure",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Matthew Parkhill"
+    ],
+    "cast": [
+      "Hero Fiennes Tiffin",
+      "Dónal Finn",
+      "Zine Tseng",
+      "Joseph Fiennes",
+      "Natascha McElhone"
+    ],
+    "series_name": "Young Sherlock",
+    "season_number": 1,
+    "played_at": "2026-03-18 19:02:00.7535984",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2699
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "f7a730f64770276f6cfbef7b5c17a366",
+    "title": "The Newsroom",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Jeff Daniels",
+      "Emily Mortimer",
+      "John Gallagher Jr.",
+      "Alison Pill",
+      "Thomas Sadoski"
+    ],
+    "series_name": "The Newsroom",
+    "season_number": 2,
+    "played_at": "2026-03-18 17:06:33.5464348",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2902
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "12bc93b85ada38f806ec30fdc7954f7c",
+    "title": "Joseph",
+    "kind": "series",
+    "genres": [
+      "Commedia"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Lucien Jean-Baptiste",
+      "Firmine Richard",
+      "Claire Borotra",
+      "Alexis Tomassian",
+      "Jean-Philippe Puymartin"
+    ],
+    "series_name": "Joseph",
+    "season_number": 1,
+    "played_at": "2026-03-18 12:31:41.1861072",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2284
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "b53fb899756c49848826bbbd62479b3f",
+    "title": "Everything Everywhere All at Once - La vita, il multiverso e tutto quanto",
+    "kind": "movie",
+    "genres": [
+      "Avventura",
+      "Azione",
+      "Fantascienza"
+    ],
+    "director": null,
+    "writers": [
+      "Daniel Scheinert",
+      "Daniel Kwan"
+    ],
+    "cast": [
+      "Michelle Yeoh",
+      "Stephanie Hsu",
+      "Ke Huy Quan",
+      "James Hong",
+      "Jamie Lee Curtis"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-03-17 19:52:33.9263523",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 8115
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "80146b733699a53ce7c0ab004d3872b1",
+    "title": "Young Sherlock",
+    "kind": "series",
+    "genres": [
+      "Action & Adventure",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Matthew Parkhill"
+    ],
+    "cast": [
+      "Hero Fiennes Tiffin",
+      "Dónal Finn",
+      "Zine Tseng",
+      "Natascha McElhone",
+      "Max Irons"
+    ],
+    "series_name": "Young Sherlock",
+    "season_number": 1,
+    "played_at": "2026-03-17 18:58:51.6361565",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2874
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "29cf50b588a9d41907cd552ec3bd21f0",
+    "title": "Una battaglia dopo l’altra",
+    "kind": "movie",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Thriller"
+    ],
+    "director": null,
+    "writers": [
+      "Paul Thomas Anderson"
+    ],
+    "cast": [
+      "Leonardo DiCaprio",
+      "Sean Penn",
+      "Chase Infiniti",
+      "Benicio Del Toro",
+      "Regina Hall"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-03-16 20:02:27.2542804",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 9782
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "604e4c4b6a960da5bdd309785a30c5fa",
+    "title": "Joseph",
+    "kind": "series",
+    "genres": [
+      "Commedia"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Lucien Jean-Baptiste",
+      "Firmine Richard",
+      "Claire Borotra",
+      "Alexis Tomassian",
+      "Jean-Philippe Puymartin"
+    ],
+    "series_name": "Joseph",
+    "season_number": 1,
+    "played_at": "2026-03-16 16:47:33.8059749",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 1505
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "44ae97fd92cf2ce99b2af3a8b2408cbd",
+    "title": "Young Sherlock",
+    "kind": "series",
+    "genres": [
+      "Action & Adventure",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Hero Fiennes Tiffin",
+      "Dónal Finn",
+      "Zine Tseng",
+      "Joseph Fiennes",
+      "Natascha McElhone"
+    ],
+    "series_name": "Young Sherlock",
+    "season_number": 1,
+    "played_at": "2026-03-16 11:54:21.9051554",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2775
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "08f1210558c246064cdec3c20dfb8993",
+    "title": "Joseph",
+    "kind": "series",
+    "genres": [
+      "Commedia"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Lucien Jean-Baptiste",
+      "Firmine Richard",
+      "Claire Borotra",
+      "Alexis Tomassian",
+      "Jean-Philippe Puymartin"
+    ],
+    "series_name": "Joseph",
+    "season_number": 1,
+    "played_at": "2026-03-16 10:58:49.4297911",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2870
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "46f6e1b1334d836b355d42926e8de038",
+    "title": "The Lost Bus",
+    "kind": "movie",
+    "genres": [
+      "Dramma",
+      "Thriller"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Matthew McConaughey",
+      "America Ferrera",
+      "Yul Vazquez",
+      "Ashlie Atkinson",
+      "Kimberli Flores"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-03-15 20:16:55.2252444",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 7560
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "1185ea6179450324d5c64ba3a57a2e7d",
+    "title": "Young Sherlock",
+    "kind": "series",
+    "genres": [
+      "Action & Adventure",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Melissa Bubnic"
+    ],
+    "cast": [
+      "Hero Fiennes Tiffin",
+      "Dónal Finn",
+      "Zine Tseng",
+      "Joseph Fiennes",
+      "Natascha McElhone"
+    ],
+    "series_name": "Young Sherlock",
+    "season_number": 1,
+    "played_at": "2026-03-15 19:12:24.3468302",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2601
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "e830d3fe904a65f02d6282c4e9038ebc",
+    "title": "Joseph",
+    "kind": "series",
+    "genres": [
+      "Commedia"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Lucien Jean-Baptiste",
+      "Firmine Richard",
+      "Claire Borotra",
+      "Alexis Tomassian",
+      "Jean-Philippe Puymartin"
+    ],
+    "series_name": "Joseph",
+    "season_number": 1,
+    "played_at": "2026-03-15 17:21:01.968727",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2869
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "57dcdc8386aed84ef9d4f86e04ae1243",
+    "title": "The Newsroom",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Aaron Sorkin"
+    ],
+    "cast": [
+      "Jeff Daniels",
+      "Emily Mortimer",
+      "John Gallagher Jr.",
+      "Alison Pill",
+      "Thomas Sadoski"
+    ],
+    "series_name": "The Newsroom",
+    "season_number": 1,
+    "played_at": "2026-03-15 16:20:28.507196",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 3455
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "cdd6785eaebab10b018e053f6e6e12bc",
+    "title": "Young Sherlock",
+    "kind": "series",
+    "genres": [
+      "Action & Adventure",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Steve Thompson"
+    ],
+    "cast": [
+      "Hero Fiennes Tiffin",
+      "Dónal Finn",
+      "Zine Tseng",
+      "Joseph Fiennes",
+      "Natascha McElhone"
+    ],
+    "series_name": "Young Sherlock",
+    "season_number": 1,
+    "played_at": "2026-03-15 11:39:59.4724353",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2518
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "44ae97fd92cf2ce99b2af3a8b2408cbd",
+    "title": "Young Sherlock",
+    "kind": "series",
+    "genres": [
+      "Action & Adventure",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Hero Fiennes Tiffin",
+      "Dónal Finn",
+      "Zine Tseng",
+      "Joseph Fiennes",
+      "Natascha McElhone"
+    ],
+    "series_name": "Young Sherlock",
+    "season_number": 1,
+    "played_at": "2026-03-15 11:16:19.8269332",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 1420
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "cdd6785eaebab10b018e053f6e6e12bc",
+    "title": "Young Sherlock",
+    "kind": "series",
+    "genres": [
+      "Action & Adventure",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Steve Thompson"
+    ],
+    "cast": [
+      "Hero Fiennes Tiffin",
+      "Dónal Finn",
+      "Zine Tseng",
+      "Joseph Fiennes",
+      "Natascha McElhone"
+    ],
+    "series_name": "Young Sherlock",
+    "season_number": 1,
+    "played_at": "2026-03-14 22:49:07.3080827",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2712
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "3ede404cb8e684eb561ceeecad895621",
+    "title": "L'attimo fuggente",
+    "kind": "movie",
+    "genres": [
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Tom Schulman"
+    ],
+    "cast": [
+      "Robin Williams",
+      "Robert Sean Leonard",
+      "Ethan Hawke",
+      "Josh Charles",
+      "Gale Hansen"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-03-14 19:58:55.1357294",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 7587
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "f37507fcf23954bcf2f1418bfd882222",
+    "title": "Young Sherlock",
+    "kind": "series",
+    "genres": [
+      "Action & Adventure",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Matthew Parkhill",
+      "Peter Harness"
+    ],
+    "cast": [
+      "Hero Fiennes Tiffin",
+      "Dónal Finn",
+      "Zine Tseng",
+      "Joseph Fiennes",
+      "Natascha McElhone"
+    ],
+    "series_name": "Young Sherlock",
+    "season_number": 1,
+    "played_at": "2026-03-14 19:03:38.6078363",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 3017
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "e65b7ea1f26bf5b6d2ba952ae0d572cd",
+    "title": "The Newsroom",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Ian Reichbach"
+    ],
+    "cast": [
+      "Jeff Daniels",
+      "Emily Mortimer",
+      "John Gallagher Jr.",
+      "Alison Pill",
+      "Thomas Sadoski"
+    ],
+    "series_name": "The Newsroom",
+    "season_number": 2,
+    "played_at": "2026-03-14 18:22:33.4130507",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 1508
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "f37507fcf23954bcf2f1418bfd882222",
+    "title": "Young Sherlock",
+    "kind": "series",
+    "genres": [
+      "Action & Adventure",
+      "Mistero"
+    ],
+    "director": null,
+    "writers": [
+      "Matthew Parkhill",
+      "Peter Harness"
+    ],
+    "cast": [
+      "Hero Fiennes Tiffin",
+      "Dónal Finn",
+      "Zine Tseng",
+      "Joseph Fiennes",
+      "Natascha McElhone"
+    ],
+    "series_name": "Young Sherlock",
+    "season_number": 1,
+    "played_at": "2026-03-14 17:47:25.645223",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2080
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "38ad6548ed52b0acecd7ce5bf0e57590",
+    "title": "The Newsroom",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Aaron Sorkin"
+    ],
+    "cast": [
+      "Jeff Daniels",
+      "Emily Mortimer",
+      "John Gallagher Jr.",
+      "Alison Pill",
+      "Thomas Sadoski"
+    ],
+    "series_name": "The Newsroom",
+    "season_number": 1,
+    "played_at": "2026-03-14 14:21:55.9132766",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 2929
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "fcccce4fe63cc0a2011796d584047ca8",
+    "title": "Mickey 17",
+    "kind": "movie",
+    "genres": [
+      "Avventura",
+      "Commedia",
+      "Fantascienza"
+    ],
+    "director": null,
+    "writers": [
+      "봉준호"
+    ],
+    "cast": [
+      "Robert Pattinson",
+      "Naomi Ackie",
+      "Steven Yeun",
+      "Mark Ruffalo",
+      "Toni Collette"
+    ],
+    "series_name": null,
+    "season_number": null,
+    "played_at": "2026-03-13 20:06:42.7980162",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 7848
+  },
+  {
+    "user_id": "03e2c2122dd547a9adcb0be09050a04e",
+    "item_id": "28248c41614d240c53c2bf435754c8ca",
+    "title": "The Newsroom",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "director": null,
+    "writers": [
+      "Aaron Sorkin"
+    ],
+    "cast": [
+      "Jeff Daniels",
+      "Emily Mortimer",
+      "John Gallagher Jr.",
+      "Alison Pill",
+      "Thomas Sadoski"
+    ],
+    "series_name": "The Newsroom",
+    "season_number": 1,
+    "played_at": "2026-03-11 16:29:32.8221603",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 4196
+  },
+  {
+    "user_id": "aa0547be8bbf43b683593977eee79204",
+    "item_id": "50511601ec2a12cc2123b890a38dcdb5",
+    "title": "Joseph",
+    "kind": "series",
+    "genres": [
+      "Commedia"
+    ],
+    "director": null,
+    "writers": [],
+    "cast": [
+      "Lucien Jean-Baptiste",
+      "Firmine Richard",
+      "Claire Borotra",
+      "Alexis Tomassian",
+      "Jean-Philippe Puymartin"
+    ],
+    "series_name": "Joseph",
+    "season_number": 1,
+    "played_at": "2026-03-08 19:01:16.993172",
+    "completed": true,
+    "progress": 1.0,
+    "play_duration": 1477
+  }
+]

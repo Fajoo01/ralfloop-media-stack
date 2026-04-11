@@ -1,0 +1,420 @@
+[
+  {
+    "kind": "movie",
+    "title": "Prisoners",
+    "original_title": "Prisoners",
+    "year": 2013,
+    "tmdb_id": 146233,
+    "overview": "Nella (apparentemente) tranquilla provincia americana due bambine di sei e sette anni, Anna ed Eliza, escono a giocare insieme e svaniscono senza lasciare traccia. I genitori, fra di loro amici, reagiscono nei modi più disparati (e disperati): Keller, il padre della piccola Anna, comincia una caccia all'uomo senza esclusione di colpi, mentre sua moglie Grace si imbottisce di psicofarmaci per attutire il dolore e lo sgomento; Franklin, il padre di Eliza, cerca di non farsi travolgere dalla sete di giustizia di Keller, la moglie Nancy invece pare disposta ad appoggiarne i modi estremi.  Il detective Loki avvia le sue indagini fra intoppi burocratici e depistaggi, e comincia a chiedersi di chi sospettare, dato che anche il comportamento di Keller si fa sempre più equivoco. E la cittadina di provincia rivela di avere più scheletri in cantina (letteralmente) di quanto si potesse immaginare.",
+    "popularity": 14.4211,
+    "vote_average": 8.103,
+    "vote_count": 12875,
+    "genre_ids": [
+      18,
+      53,
+      80
+    ],
+    "director": "Denis Villeneuve",
+    "writers": [
+      "Aaron Guzikowski"
+    ],
+    "cast": [
+      "Hugh Jackman",
+      "Jake Gyllenhaal",
+      "Viola Davis",
+      "Maria Bello",
+      "Terrence Howard"
+    ],
+    "priority": 5,
+    "source": "seed_search",
+    "status": "pending",
+    "attempts": 0,
+    "last_attempt_at": null,
+    "last_result": null
+  },
+  {
+    "kind": "movie",
+    "title": "Zodiac",
+    "original_title": "Zodiac",
+    "year": 2007,
+    "tmdb_id": 1949,
+    "overview": "Nell'estate del '69 un serial killer uccise sette persone, tre uomini e quattro donne, lasciando dietro di sé una lunga serie di indizi e tracce (segni indicanti i simboli dello zodiaco, da cui il celebre soprannome) che però non seppero essere utili agli investigatori, incapaci di chiudere il caso e assicurare alla giustizia il colpevole.",
+    "popularity": 13.1956,
+    "vote_average": 7.528,
+    "vote_count": 11423,
+    "genre_ids": [
+      80,
+      9648,
+      53
+    ],
+    "director": "David Fincher",
+    "writers": [
+      "James Vanderbilt"
+    ],
+    "cast": [
+      "Jake Gyllenhaal",
+      "Mark Ruffalo",
+      "Anthony Edwards",
+      "Robert Downey Jr.",
+      "Chloë Sevigny"
+    ],
+    "priority": 5,
+    "source": "seed_search",
+    "status": "pending",
+    "attempts": 0,
+    "last_attempt_at": null,
+    "last_result": null
+  },
+  {
+    "kind": "movie",
+    "title": "L'amore bugiardo - Gone Girl",
+    "original_title": "Gone Girl",
+    "year": 2014,
+    "tmdb_id": 210577,
+    "overview": "Da poco trasferirtisi in una piccola cittadina del Missouri da New York, Nick Dunne (Ben Affleck) e la moglie Amy (Rosamunde Pike) stanno attraversando un periodo difficile, con un matrimonio in crisi per via della difficoltà della donna ad abituarsi alla nuova esistenza. Il giorno del quinto anniversario di nozze, Amy scompare e il primo ad essere sospettato della sua scomparsa è Nick ma la realtà è ben diversa da come appare a prima vista.",
+    "popularity": 19.528,
+    "vote_average": 7.9,
+    "vote_count": 19766,
+    "genre_ids": [
+      9648,
+      53,
+      18
+    ],
+    "director": "David Fincher",
+    "writers": [
+      "Gillian Flynn"
+    ],
+    "cast": [
+      "Ben Affleck",
+      "Rosamund Pike",
+      "Neil Patrick Harris",
+      "Tyler Perry",
+      "Carrie Coon"
+    ],
+    "priority": 4,
+    "source": "seed_search",
+    "status": "pending",
+    "attempts": 0,
+    "last_attempt_at": null,
+    "last_result": null
+  },
+  {
+    "kind": "movie",
+    "title": "Lo sciacallo - Nightcrawler",
+    "original_title": "Nightcrawler",
+    "year": 2014,
+    "tmdb_id": 242582,
+    "overview": "Louis è un ladro di materiali edili quando lo incontriamo, non è chiaro cosa abbia fatto prima ma ora ruba rame, ferro e simili per rivenderli sottoprezzo ai cantieri con un obiettivo più grande: trovare un vero lavoro in una congiuntura economica non facile. Tuttavia nessuno assume un ladro. Un giorno è testimone di un incidente stradale e vede una troupe televisiva accorsa per riprendere l'accaduto, capisce che è un vero lavoro e uno che paga ma nemmeno in questo caso trova qualcuno pronto ad assumerlo così pensa di poter fare da sè e con i propri metodi (il furto) ruba il necessario per comprare un'attrezzatura di base e iniziare a girare le strade di Los Angeles in cerca di incidenti, furti e cronaca dura da rivendere ad un'emittente locale con pochi scrupoli. Quando il business si fa più serio aumenta anche la sua abilità ma non il suo senso del limite e dell'etica verso le vittime.",
+    "popularity": 12.8732,
+    "vote_average": 7.709,
+    "vote_count": 11583,
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "director": "Dan Gilroy",
+    "writers": [
+      "Dan Gilroy"
+    ],
+    "cast": [
+      "Jake Gyllenhaal",
+      "Riz Ahmed",
+      "Rene Russo",
+      "Bill Paxton",
+      "Kevin Rahm"
+    ],
+    "priority": 4,
+    "source": "seed_search",
+    "status": "pending",
+    "attempts": 0,
+    "last_attempt_at": null,
+    "last_result": null
+  },
+  {
+    "kind": "movie",
+    "title": "I figli degli uomini",
+    "original_title": "Children of Men",
+    "year": 2006,
+    "tmdb_id": 9693,
+    "overview": "Anno 2027. In un futuro non troppo distante, in cui il mondo non può più procreare, l'Inghilterra rimane unica zona franca, per non confrontarsi con le guerriglie urbane. Theo, rapito da Julian, una donna attivista amata in passato, ha una grande responsabilità. Dovrà condurre salva una giovane donna fino a un santuario sul mare, e dare la possibilità al mondo di evitare l'estinzione.",
+    "popularity": 8.7925,
+    "vote_average": 7.61,
+    "vote_count": 7741,
+    "genre_ids": [
+      878,
+      53
+    ],
+    "director": "Alfonso Cuarón",
+    "writers": [
+      "David Arata",
+      "Alfonso Cuarón",
+      "Timothy J. Sexton",
+      "Hawk Ostby",
+      "Mark Fergus"
+    ],
+    "cast": [
+      "Clive Owen",
+      "Clare-Hope Ashitey",
+      "Chiwetel Ejiofor",
+      "Julianne Moore",
+      "Michael Caine"
+    ],
+    "priority": 4,
+    "source": "seed_search",
+    "status": "pending",
+    "attempts": 0,
+    "last_attempt_at": null,
+    "last_result": null
+  },
+  {
+    "kind": "movie",
+    "title": "Sicario",
+    "original_title": "Sicario",
+    "year": 2015,
+    "tmdb_id": 273481,
+    "overview": "Al confine tra Stati Uniti e Messico, in una zona dove non esiste la legge, Kate, un'agente dell'FBI idealista è arruolata da un agente del governo in una task force d'elite impegnata nella sempre più difficile guerra al traffico di droga. Guidati da un consulente dal passato discutibile, la squadra parte per una missione segreta che costringerà Kate a mettere in discussione tutto ciò in cui credeva, per poter sopravvivere.",
+    "popularity": 11.8336,
+    "vote_average": 7.417,
+    "vote_count": 9412,
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "director": "Denis Villeneuve",
+    "writers": [
+      "Taylor Sheridan"
+    ],
+    "cast": [
+      "Emily Blunt",
+      "Benicio Del Toro",
+      "Josh Brolin",
+      "Victor Garber",
+      "Jon Bernthal"
+    ],
+    "priority": 4,
+    "source": "seed_search",
+    "status": "pending",
+    "attempts": 0,
+    "last_attempt_at": null,
+    "last_result": null
+  },
+  {
+    "kind": "movie",
+    "title": "Il padrino",
+    "original_title": "The Godfather",
+    "year": 1972,
+    "tmdb_id": 238,
+    "overview": "Anni Quaranta. Come è consuetudine, durante il rinfresco per festeggiare le nozze della figlia Conny con Carlo, il \"padrino\" don Vito Corleone promette assistenza e protezione a familiari e amici. Invia il figliastro Tom Hagen in California per convincere in ogni modo il produttore Jack Woltz a scritturare il cantante Johnny nel suo prossimo film. Woltz non acconsente. Tom allora lo costringe ad accettare con un \"avvertimento\": l'uccisione del suo cavallo di razza preferito. Sollozzo, a nome della potente \"famiglia\" Tartaglia, chiede a Corleone finanziamenti e appoggi per il traffico di droga. Il rifiuto scatena una lotta cruenta tra le due cosche: lo stesso don Vito viene ferito gravemente; il figlio minore Michael lo salva da un secondo attentato. Michael, poi, scavalcando l'irruento fratello Sonny e Tom, temporeggiatore, organizza un incontro con Sollozzo e con il corrotto capitano di polizia McCluskey uccidendoli entrambi.",
+    "popularity": 41.8091,
+    "vote_average": 8.686,
+    "vote_count": 22665,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "director": "Francis Ford Coppola",
+    "writers": [
+      "Mario Puzo",
+      "Francis Ford Coppola"
+    ],
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Robert Duvall",
+      "Richard S. Castellano"
+    ],
+    "priority": 2,
+    "source": "top_rated",
+    "status": "pending",
+    "attempts": 0,
+    "last_attempt_at": null,
+    "last_result": null
+  },
+  {
+    "kind": "movie",
+    "title": "Il padrino - Parte II",
+    "original_title": "The Godfather Part II",
+    "year": 1975,
+    "tmdb_id": 240,
+    "overview": "Il film tratta della giovinezza e dei primi passi nel mondo del crimine di Vito Corleone, e delle difficoltà cinquant'anni più tardi di suo figlio, Michael, a mantenere in piedi l'impero Corleone. Il tutto tra vicende di emigrazione, tradimenti familiari, inchieste governative e affari.",
+    "popularity": 27.9822,
+    "vote_average": 8.572,
+    "vote_count": 13725,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "director": "Francis Ford Coppola",
+    "writers": [
+      "Mario Puzo",
+      "Francis Ford Coppola"
+    ],
+    "cast": [
+      "Al Pacino",
+      "Robert Duvall",
+      "Diane Keaton",
+      "Robert De Niro",
+      "John Cazale"
+    ],
+    "priority": 2,
+    "source": "top_rated",
+    "status": "pending",
+    "attempts": 0,
+    "last_attempt_at": null,
+    "last_result": null
+  },
+  {
+    "kind": "movie",
+    "title": "La parola ai giurati",
+    "original_title": "12 Angry Men",
+    "year": 1957,
+    "tmdb_id": 389,
+    "overview": "Dodici giurati sono riuniti in consiglio per decidere della sorte di un diciottenne accusato d'omicidio. Undici lo ritengono colpevole. Soltanto uno, Davis, lo considera innocente; trattandosi di una possibile condanna a morte, è necessaria l'unanimità. Con appassionata eloquenza e con il rigore dei suoi ragionamenti, Davis convince gli altri uno a uno che l'accusa non regge.",
+    "popularity": 22.552,
+    "vote_average": 8.556,
+    "vote_count": 9844,
+    "genre_ids": [
+      18
+    ],
+    "director": "Sidney Lumet",
+    "writers": [
+      "Reginald Rose"
+    ],
+    "cast": [
+      "Martin Balsam",
+      "John Fiedler",
+      "Lee J. Cobb",
+      "E.G. Marshall",
+      "Jack Klugman"
+    ],
+    "priority": 2,
+    "source": "top_rated",
+    "status": "pending",
+    "attempts": 0,
+    "last_attempt_at": null,
+    "last_result": null
+  },
+  {
+    "kind": "movie",
+    "title": "Il buono, il brutto, il cattivo",
+    "original_title": "Il buono, il brutto, il cattivo",
+    "year": 1966,
+    "tmdb_id": 429,
+    "overview": "Durante la guerra di Secessione, tre spregiudicati avventurieri, cercano di impossessarsi di un carico d'oro che gli permetterebbe di chiudere con la vita da pistoleri. Ma la guerra li costringerà a cambiare i loro piani.",
+    "popularity": 27.61,
+    "vote_average": 8.467,
+    "vote_count": 9510,
+    "genre_ids": [
+      37
+    ],
+    "director": "Sergio Leone",
+    "writers": [
+      "Luciano Vincenzoni",
+      "Sergio Leone",
+      "Age",
+      "Scarpelli"
+    ],
+    "cast": [
+      "Clint Eastwood",
+      "Eli Wallach",
+      "Lee Van Cleef",
+      "Aldo Giuffrè",
+      "Luigi Pistilli"
+    ],
+    "priority": 2,
+    "source": "top_rated",
+    "status": "pending",
+    "attempts": 0,
+    "last_attempt_at": null,
+    "last_result": null
+  },
+  {
+    "kind": "movie",
+    "title": "I sette samurai",
+    "original_title": "七人の侍",
+    "year": 1955,
+    "tmdb_id": 346,
+    "overview": "Nel Giappone del XVI secolo in cui orde di soldati sbandati e dediti al brigantaggio saccheggiano le campagne, la popolazione di un povero villaggio decide di ricorrere ai samurai, nobile casta di soldati di ventura, nella speranza di trovare qualcuno disposto a impegnarsi in un'impresa così umile e così poco remunerata. Li trovano.",
+    "popularity": 19.6331,
+    "vote_average": 8.451,
+    "vote_count": 4152,
+    "genre_ids": [
+      28,
+      18
+    ],
+    "director": "Akira Kurosawa",
+    "writers": [
+      "橋本忍",
+      "小国英雄",
+      "Akira Kurosawa"
+    ],
+    "cast": [
+      "Toshirō Mifune",
+      "Takashi Shimura",
+      "稲葉義男",
+      "宮口精二",
+      "千秋実"
+    ],
+    "priority": 2,
+    "source": "top_rated",
+    "status": "pending",
+    "attempts": 0,
+    "last_attempt_at": null,
+    "last_result": null
+  },
+  {
+    "kind": "movie",
+    "title": "रॉकी और रानी की प्रेम कहानी",
+    "original_title": "रॉकी और रानी की प्रेम कहानी",
+    "year": 2023,
+    "tmdb_id": 848116,
+    "overview": "",
+    "popularity": 142.7915,
+    "vote_average": 6.045,
+    "vote_count": 78,
+    "genre_ids": [
+      35,
+      18,
+      10751,
+      10749
+    ],
+    "director": "Karan Johar",
+    "writers": [
+      "Ishita Moitra",
+      "Shashank Khaitan",
+      "Sumit Roy"
+    ],
+    "cast": [
+      "Alia Bhatt",
+      "Ranveer Singh",
+      "Jaya Bachchan",
+      "Shabana Azmi",
+      "Dharmendra"
+    ],
+    "priority": 1,
+    "source": "popular",
+    "status": "pending",
+    "attempts": 0,
+    "last_attempt_at": null,
+    "last_result": null
+  },
+  {
+    "title": "Children of Men",
+    "kind": "movie",
+    "year": 2006,
+    "bucket": "back_catalog",
+    "priority_boost": 4,
+    "source": "manual_backlog"
+  },
+  {
+    "title": "Gone Girl",
+    "kind": "movie",
+    "year": 2014,
+    "bucket": "back_catalog",
+    "priority_boost": 4,
+    "source": "manual_backlog"
+  }
+]

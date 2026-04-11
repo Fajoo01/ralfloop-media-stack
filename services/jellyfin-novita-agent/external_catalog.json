@@ -1,0 +1,1204 @@
+[
+  {
+    "title": "The Last of Us - S2",
+    "kind": "series",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "franchise": "The Last of Us",
+    "bucket": "continuation",
+    "source": "manual_seed",
+    "release_date": "2025-01-01",
+    "year": 2025,
+    "season_number": 2,
+    "priority_boost": 3,
+    "notes": "Nuova stagione di serie già vista da più utenti"
+  },
+  {
+    "title": "Severance - S2",
+    "kind": "series",
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "franchise": "Severance",
+    "bucket": "continuation",
+    "source": "manual_seed",
+    "release_date": "2025-01-01",
+    "year": 2025,
+    "season_number": 2,
+    "priority_boost": 3,
+    "notes": "Continuazione diretta"
+  },
+  {
+    "title": "Fallout - S2",
+    "kind": "series",
+    "genres": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "franchise": "Fallout",
+    "bucket": "continuation",
+    "source": "manual_seed",
+    "release_date": "2025-01-01",
+    "year": 2025,
+    "season_number": 2,
+    "priority_boost": 2,
+    "notes": "Nuova stagione / continuità"
+  },
+  {
+    "title": "Dune: Part Two",
+    "kind": "movie",
+    "genres": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "franchise": "Dune",
+    "bucket": "continuation",
+    "source": "manual_seed",
+    "release_date": "2024-03-01",
+    "year": 2024,
+    "season_number": null,
+    "priority_boost": 2,
+    "notes": "Sequel film già visto"
+  },
+  {
+    "title": "Marshals: A Yellowstone Story",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Western"
+    ],
+    "franchise": "Marshals: A Yellowstone Story",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "2026-03-01",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "Sevdiğim Sensin",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Soap"
+    ],
+    "franchise": "Sevdiğim Sensin",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "2026-02-12",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "逐玉",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "franchise": "逐玉",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2026-03-06",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "언더커버 미쓰홍",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Commedia",
+      "Dramma"
+    ],
+    "franchise": "언더커버 미쓰홍",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2026-01-17",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "デッドアカウント",
+    "kind": "series",
+    "genres": [
+      "Animazione",
+      "Dramma",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "franchise": "デッドアカウント",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2026-01-10",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "お気楽領主の楽しい領地防衛 ～生産系魔術で名もなき村を最強の城塞都市に～",
+    "kind": "series",
+    "genres": [
+      "Animazione",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "franchise": "お気楽領主の楽しい領地防衛 ～生産系魔術で名もなき村を最強の城塞都市に～",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2026-01-10",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "Hell Mode ~ Il giocatore hardcore domina in un altro mondo con settaggi folli ~",
+    "kind": "series",
+    "genres": [
+      "Animazione",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "franchise": "Hell Mode ~ Il giocatore hardcore domina in un altro mondo con settaggi folli ~",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2026-01-10",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "Três Graças",
+    "kind": "series",
+    "genres": [
+      "Soap",
+      "Dramma"
+    ],
+    "franchise": "Três Graças",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2025-10-20",
+    "year": 2025,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "Monarch: Legacy of Monsters",
+    "kind": "series",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma",
+      "Action & Adventure"
+    ],
+    "franchise": "Monarch: Legacy of Monsters",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "2023-11-16",
+    "year": 2023,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "La Promessa",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Soap"
+    ],
+    "franchise": "La Promessa",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2023-01-12",
+    "year": 2023,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "你好，星期六",
+    "kind": "series",
+    "genres": [
+      "Reality"
+    ],
+    "franchise": "你好，星期六",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2022-01-01",
+    "year": 2022,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "kind": "series",
+    "genres": [
+      "Animazione",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "franchise": "Jujutsu Kaisen",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "2020-10-03",
+    "year": 2020,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "The Rookie",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Commedia"
+    ],
+    "franchise": "The Rookie",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "2018-10-16",
+    "year": 2018,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "전지적 참견 시점",
+    "kind": "series",
+    "genres": [
+      "Reality"
+    ],
+    "franchise": "전지적 참견 시점",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2018-03-10",
+    "year": 2018,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "놀라운 토요일",
+    "kind": "series",
+    "genres": [
+      "Commedia",
+      "Reality"
+    ],
+    "franchise": "놀라운 토요일",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2018-04-07",
+    "year": 2018,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "Tomorrow Is Ours - Il domani è nostro",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Soap"
+    ],
+    "franchise": "Tomorrow Is Ours - Il domani è nostro",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "2017-07-17",
+    "year": 2017,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "Battle Through the Heavens",
+    "kind": "series",
+    "genres": [
+      "Animazione",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "franchise": "Battle Through the Heavens",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2017-01-07",
+    "year": 2017,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "明星大侦探",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Mistero",
+      "Reality"
+    ],
+    "franchise": "明星大侦探",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2016-03-27",
+    "year": 2016,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "The Late Show with Stephen Colbert",
+    "kind": "series",
+    "genres": [
+      "Commedia",
+      "Talk"
+    ],
+    "franchise": "The Late Show with Stephen Colbert",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "2015-09-08",
+    "year": 2015,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "Teen Titans Go!",
+    "kind": "series",
+    "genres": [
+      "Animazione",
+      "Action & Adventure",
+      "Commedia",
+      "Famiglia",
+      "Sci-Fi & Fantasy"
+    ],
+    "franchise": "Teen Titans Go!",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2013-04-23",
+    "year": 2013,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "Watch What Happens Live with Andy Cohen",
+    "kind": "series",
+    "genres": [
+      "Talk",
+      "Commedia"
+    ],
+    "franchise": "Watch What Happens Live with Andy Cohen",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "2009-07-16",
+    "year": 2009,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "TMZ",
+    "kind": "series",
+    "genres": [
+      "News",
+      "Commedia"
+    ],
+    "franchise": "TMZ",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2007-09-10",
+    "year": 2007,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "Echappées Belles",
+    "kind": "series",
+    "genres": [
+      "Documentario"
+    ],
+    "franchise": "Echappées Belles",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2006-09-30",
+    "year": 2006,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "Grey's Anatomy",
+    "kind": "series",
+    "genres": [
+      "Dramma"
+    ],
+    "franchise": "Grey's Anatomy",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "2005-03-27",
+    "year": 2005,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "Binnelanders",
+    "kind": "series",
+    "genres": [
+      "Soap"
+    ],
+    "franchise": "Binnelanders",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "2005-10-13",
+    "year": 2005,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "Paradise Hotel",
+    "kind": "series",
+    "genres": [
+      "Reality"
+    ],
+    "franchise": "Paradise Hotel",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "2005-09-14",
+    "year": 2005,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "NCIS - Unità anticrimine",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Action & Adventure"
+    ],
+    "franchise": "NCIS - Unità anticrimine",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "2003-09-23",
+    "year": 2003,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "Na Wspólnej",
+    "kind": "series",
+    "genres": [
+      "Soap"
+    ],
+    "franchise": "Na Wspólnej",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "2003-01-27",
+    "year": 2003,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "I Griffin",
+    "kind": "series",
+    "genres": [
+      "Animazione",
+      "Commedia"
+    ],
+    "franchise": "I Griffin",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "1999-01-31",
+    "year": 1999,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "Law & Order - Unità vittime speciali",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "franchise": "Law & Order - Unità vittime speciali",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "1999-09-20",
+    "year": 1999,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "Salatut elämät",
+    "kind": "series",
+    "genres": [
+      "Soap",
+      "Dramma"
+    ],
+    "franchise": "Salatut elämät",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "1999-01-25",
+    "year": 1999,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "Detective Conan",
+    "kind": "series",
+    "genres": [
+      "Animazione",
+      "Crime",
+      "Mistero",
+      "Commedia"
+    ],
+    "franchise": "Detective Conan",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "1996-01-08",
+    "year": 1996,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "Raw",
+    "kind": "series",
+    "genres": [
+      "Reality"
+    ],
+    "franchise": "Raw",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "1993-01-11",
+    "year": 1993,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "Gute Zeiten, schlechte Zeiten",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Soap"
+    ],
+    "franchise": "Gute Zeiten, schlechte Zeiten",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "1992-05-11",
+    "year": 1992,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "Law & Order - I due volti della giustizia",
+    "kind": "series",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "franchise": "Law & Order - I due volti della giustizia",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "1990-09-13",
+    "year": 1990,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "48 Hours",
+    "kind": "series",
+    "genres": [
+      "News",
+      "Crime",
+      "Documentario"
+    ],
+    "franchise": "48 Hours",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "1988-01-19",
+    "year": 1988,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "Casualty",
+    "kind": "series",
+    "genres": [
+      "Dramma",
+      "Soap"
+    ],
+    "franchise": "Casualty",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "1986-09-06",
+    "year": 1986,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "EastEnders",
+    "kind": "series",
+    "genres": [
+      "Soap",
+      "Dramma",
+      "Crime"
+    ],
+    "franchise": "EastEnders",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "1985-02-19",
+    "year": 1985,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "Saturday Night Live",
+    "kind": "series",
+    "genres": [
+      "Commedia",
+      "News"
+    ],
+    "franchise": "Saturday Night Live",
+    "bucket": "new_release",
+    "source": "tmdb_airing_today",
+    "release_date": "1975-10-11",
+    "year": 1975,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_airing_today"
+  },
+  {
+    "title": "Kamen Rider",
+    "kind": "series",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Dramma"
+    ],
+    "franchise": "Kamen Rider",
+    "bucket": "new_release",
+    "source": "tmdb_on_the_air",
+    "release_date": "1971-04-03",
+    "year": 1971,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico tmdb_on_the_air"
+  },
+  {
+    "title": "Arco - Un'amicizia per salvare il futuro",
+    "kind": "movie",
+    "genres": [
+      "Animazione",
+      "Avventura",
+      "Fantasy",
+      "Famiglia",
+      "Dramma"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-12",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "L'ultima missione: Project Hail Mary",
+    "kind": "movie",
+    "genres": [
+      "Fantascienza",
+      "Avventura",
+      "Mistero"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-19",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Super Mario Galaxy - Il film",
+    "kind": "movie",
+    "genres": [
+      "Famiglia",
+      "Fantasy",
+      "Commedia",
+      "Avventura",
+      "Animazione"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-04-01",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Strike - Figli di un’era sbagliata",
+    "kind": "movie",
+    "genres": [
+      "Dramma"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-26",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Non è la fine del mondo",
+    "kind": "movie",
+    "genres": [
+      "Romance",
+      "Commedia"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-26",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Keeper - L'eletta",
+    "kind": "movie",
+    "genres": [
+      "Horror",
+      "Mistero"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-12",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Reminders of Him - La parte migliore di te",
+    "kind": "movie",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-12",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Ti uccideranno",
+    "kind": "movie",
+    "genres": [
+      "Azione",
+      "Commedia",
+      "Horror"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-26",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Il testamento di Ann Lee",
+    "kind": "movie",
+    "genres": [
+      "Dramma",
+      "Storia",
+      "Musica"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-12",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "The History Of Sound - Sulle note di un amore",
+    "kind": "movie",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Musica"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-26",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "E.1027 - Eileen Gray e la casa sul mare",
+    "kind": "movie",
+    "genres": [
+      "Documentario"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-16",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Idoli - Fino all’ultima corsa",
+    "kind": "movie",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-19",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Cena di classe",
+    "kind": "movie",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-26",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Mio fratello è un vichingo",
+    "kind": "movie",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Dramma"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-26",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "La torta del presidente",
+    "kind": "movie",
+    "genres": [
+      "Dramma"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-19",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "L'isola dei ricordi",
+    "kind": "movie",
+    "genres": [
+      "Dramma"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-12",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Il Dio dell'Amore",
+    "kind": "movie",
+    "genres": [
+      "Commedia"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-26",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Homebound - Storia di un'amicizia in India",
+    "kind": "movie",
+    "genres": [
+      "Dramma"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-26",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Lady Nazca - La signora delle linee",
+    "kind": "movie",
+    "genres": [
+      "Dramma",
+      "Storia",
+      "Avventura"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-12",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Gli occhi degli altri",
+    "kind": "movie",
+    "genres": [
+      "Dramma"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "tmdb_upcoming",
+    "release_date": "2026-03-19",
+    "year": 2026,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Import automatico TMDb upcoming"
+  },
+  {
+    "title": "Mickey 17",
+    "kind": "movie",
+    "genres": [
+      "Sci-Fi",
+      "Drama"
+    ],
+    "franchise": null,
+    "bucket": "new_release",
+    "source": "manual_seed",
+    "release_date": "2025-03-07",
+    "year": 2025,
+    "season_number": null,
+    "priority_boost": 0,
+    "notes": "Novità forte ma non continuation"
+  },
+  {
+    "title": "Silo - S2",
+    "kind": "series",
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "franchise": "Silo",
+    "bucket": "recent_catalog",
+    "source": "manual_seed",
+    "release_date": "2025-01-01",
+    "year": 2025,
+    "season_number": 2,
+    "priority_boost": 0,
+    "notes": "Affinità alta, ma non ancora visto nel profilo simulato"
+  },
+  {
+    "title": "Foundation - S2",
+    "kind": "series",
+    "genres": [
+      "Sci-Fi",
+      "Drama"
+    ],
+    "franchise": "Foundation",
+    "bucket": "recent_catalog",
+    "source": "manual_seed",
+    "release_date": "2024-01-01",
+    "year": 2024,
+    "season_number": 2,
+    "priority_boost": 0,
+    "notes": "Affinità di genere, non seguito diretto"
+  },
+  {
+    "title": "Blade Runner 2099",
+    "kind": "series",
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "franchise": "Blade Runner",
+    "bucket": "back_catalog",
+    "source": "manual_seed",
+    "release_date": "2025-01-01",
+    "year": 2025,
+    "season_number": 1,
+    "priority_boost": 0,
+    "notes": "Recupero forte per franchise affine"
+  },
+  {
+    "title": "Strike",
+    "kind": "series",
+    "season_number": 6,
+    "genres": [
+      "Dramma",
+      "Giallo",
+      "Poliziesco"
+    ],
+    "franchise": "Strike",
+    "bucket": "continuation",
+    "source": "manual_fix",
+    "year": 2024,
+    "priority_boost": 0,
+    "notes": "Serie TV corretta; 6 stagioni note"
+  },
+  {
+    "title": "Strike",
+    "kind": "series",
+    "season_number": 1,
+    "genres": [
+      "Dramma",
+      "Giallo",
+      "Poliziesco"
+    ],
+    "franchise": "Strike",
+    "bucket": "continuation",
+    "source": "manual_fix",
+    "year": 2017,
+    "priority_boost": 0,
+    "notes": "Serie TV corretta; stagione 1"
+  },
+  {
+    "title": "Strike",
+    "kind": "series",
+    "season_number": 2,
+    "genres": [
+      "Dramma",
+      "Giallo",
+      "Poliziesco"
+    ],
+    "franchise": "Strike",
+    "bucket": "continuation",
+    "source": "manual_fix",
+    "year": 2018,
+    "priority_boost": 0,
+    "notes": "Serie TV corretta; stagione 2"
+  },
+  {
+    "title": "Strike",
+    "kind": "series",
+    "season_number": 3,
+    "genres": [
+      "Dramma",
+      "Giallo",
+      "Poliziesco"
+    ],
+    "franchise": "Strike",
+    "bucket": "continuation",
+    "source": "manual_fix",
+    "year": 2020,
+    "priority_boost": 0,
+    "notes": "Serie TV corretta; stagione 3"
+  },
+  {
+    "title": "Strike",
+    "kind": "series",
+    "season_number": 4,
+    "genres": [
+      "Dramma",
+      "Giallo",
+      "Poliziesco"
+    ],
+    "franchise": "Strike",
+    "bucket": "continuation",
+    "source": "manual_fix",
+    "year": 2022,
+    "priority_boost": 0,
+    "notes": "Serie TV corretta; stagione 4"
+  },
+  {
+    "title": "Strike",
+    "kind": "series",
+    "season_number": 5,
+    "genres": [
+      "Dramma",
+      "Giallo",
+      "Poliziesco"
+    ],
+    "franchise": "Strike",
+    "bucket": "continuation",
+    "source": "manual_fix",
+    "year": 2022,
+    "priority_boost": 0,
+    "notes": "Serie TV corretta; stagione 5"
+  }
+]

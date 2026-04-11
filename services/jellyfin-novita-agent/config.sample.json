@@ -1,0 +1,11 @@
+{
+  "jellyfin_url": "http://localhost:8096",
+  "jellyfin_token": "INSERISCI_TOKEN",
+  "amule_api_url": "http://localhost:8081",
+  "amule_api_key": "INSERISCI_API_KEY",
+  "cheshire_api_key": "",
+  "tmdb_bearer": "INSERISCI_BEARER",
+  "tmdb_api_key": "INSERISCI_API_KEY",
+  "db_path": "./data/novita.db",
+  "output_dir": "./out"
+}

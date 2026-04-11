@@ -1,0 +1,331 @@
+# pipelines.py
+"""
+Peppule pipelines
+
+This module exposes the functions imported by main_plugin.py:
+- pipeline_movie(cat, query)
+- pipeline_series(cat, title, season)
+
+Key features (series):
+- Dual season search: "Sxx" and "x" formats (e.g. S02 and 2x)
+- Builds a per-episode ranked list of candidates (by score) and stores it in cache
+- Downloads the best candidate per episode (skipping episodes already in Jellyfin)
+- Falls back to per-episode dual search only when needed
+"""
+
+from __future__ import annotations
+
+import re
+from typing import Dict, List, Set, Any
+
+from .services import (
+    ask_llm_movie_info,
+    ask_llm_series_info,
+    execute_search_amule,
+    execute_download_amule,
+    check_jellyfin_movie,
+    check_jellyfin_episode,
+)
+from .utils import normalize_string, log_console, write_cache
+
+
+# ---------- helpers ----------
+
+_PACK_HINTS = (
+    "pack",
+    "complete",
+    "stagione completa",
+    "season complete",
+    "complete season",
+    "full season",
+    "all episodes",
+)
+
+def _dedupe_by_id(results: List[dict]) -> List[dict]:
+    seen = set()
+    out = []
+    for r in results or []:
+        rid = r.get("id")
+        if rid in seen:
+            continue
+        seen.add(rid)
+        out.append(r)
+    return out
+
+def _merge_and_sort(*lists: List[dict]) -> List[dict]:
+    merged: List[dict] = []
+    for lst in lists:
+        if lst:
+            merged.extend(lst)
+    merged = _dedupe_by_id(merged)
+    merged.sort(key=lambda x: x.get("score", 0), reverse=True)
+    return merged
+
+def _extract_episodes_from_name(name: str, season: int) -> Set[int]:
+    """
+    Extract episode numbers from a filename, supporting:
+      - S02E03 (multiple occurrences)
+      - 2x03 (multiple occurrences)
+      - ranges like S02E01-12, S02E01-E12, 2x01-12
+    """
+    s = (name or "").lower()
+    eps: Set[int] = set()
+
+    # SxxEyy occurrences (supports multiple E tokens)
+    for ss, ee in re.findall(r"s(\d{1,2})e(\d{1,2})", s):
+        if int(ss) == int(season):
+            eps.add(int(ee))
+
+    # xxXyy occurrences
+    for ss, ee in re.findall(r"(\d{1,2})x(\d{1,2})", s):
+        if int(ss) == int(season):
+            eps.add(int(ee))
+
+    # Ranges: S02E01-12 or S02E01-E12
+    m = re.search(r"s(\d{1,2})e(\d{1,2})\s*[-_]\s*e?(\d{1,2})", s)
+    if m and int(m.group(1)) == int(season):
+        a, b = int(m.group(2)), int(m.group(3))
+        for e in range(min(a, b), max(a, b) + 1):
+            eps.add(e)
+
+    # Ranges: 2x01-12
+    m = re.search(r"(\d{1,2})x(\d{1,2})\s*[-_]\s*(\d{1,2})", s)
+    if m and int(m.group(1)) == int(season):
+        a, b = int(m.group(2)), int(m.group(3))
+        for e in range(min(a, b), max(a, b) + 1):
+            eps.add(e)
+
+    return eps
+
+def _looks_like_season_pack(name: str, season: int) -> bool:
+    s = (name or "").lower()
+    # must reference the season somehow
+    has_season_marker = (f"s{season:02d}" in s) or (f"{season}x" in s)
+    if not has_season_marker:
+        return False
+    return any(h in s for h in _PACK_HINTS)
+
+def _tokenize_for_title(s: str) -> List[str]:
+    return [t for t in re.split(r"[^a-z0-9]+", (s or "").lower()) if t]
+
+def _series_title_match_ok(name: str, titles: List[str]) -> bool:
+    ntoks = _tokenize_for_title(name)
+    if not ntoks:
+        return False
+
+    for t in titles or []:
+        ttoks = _tokenize_for_title(t)
+        if not ttoks:
+            continue
+
+        # titolo a una parola: deve comparire molto presto nel filename
+        if len(ttoks) == 1:
+            tok = ttoks[0]
+            if tok in ntoks[:4]:
+                return True
+            continue
+
+        # titolo multi-parola: tutti i token devono comparire nelle prime posizioni
+        head = ntoks[:max(6, len(ttoks) + 2)]
+        if all(tok in head for tok in ttoks):
+            return True
+
+    return False
+
+
+# ---------- pipelines ----------
+
+def pipeline_movie(cat, raw_query: str) -> str:
+    clean = normalize_string(raw_query)
+
+    title, year = ask_llm_movie_info(cat, clean)
+
+    if check_jellyfin_movie([title, clean], year):
+        return f"🛡️ **{title} ({year})** è già presente su Jellyfin."
+
+    q = f"{title} {year} ita" if year else f"{title} ita"
+    res = execute_search_amule(q)
+    if not res and year:
+        res = execute_search_amule(f"{title} ita")
+
+    if not res:
+        return f"📭 Nulla per: **{title}**"
+
+    # cache for manual selection / debug
+    write_cache({
+        "kind": "movie",
+        "query": clean,
+        "title": title,
+        "year": year,
+        "results": res[:50],
+    })
+
+    best = res[0]
+    ok = execute_download_amule(best["id"])
+
+    out: List[str] = []
+    out.append(f"🔎 Risultati per **{title} ({year})**:\n")
+    out.append(f"🚀 **AUTO-DL:** {'✅ OK' if ok else '⚠️ FALLITO'} — {best.get('name','')}\n")
+
+    out.append("| N | File | MB | Fonti | Score |")
+    out.append("|---|------|----|-------|-------|")
+    for i, r in enumerate(res[:10], 1):
+        name = str(r.get("name", "")).replace("|", "-")
+        if len(name) > 55:
+            name = name[:55] + "…"
+        mark = "⭐" if i == 1 else ""
+        out.append(f"| **{i}** {mark} | {name} | {r.get('size','')} | {r.get('fonti','')} | {r.get('score','')} |")
+
+    out.append("\n🗂️ Classifica salvata in cache (last_search_results.json).")
+    return "\n".join(out)
+
+
+def pipeline_series(cat, raw_query: str, season: int) -> str:
+    clean_input = normalize_string(raw_query)
+
+    # title + episode count (TVMaze first, then LLM fallback inside services.py)
+    official_title, ep_count = ask_llm_series_info(cat, clean_input, season)
+
+    titles: List[str] = []
+    for t in (official_title, clean_input):
+        t = (t or "").strip()
+        if t and t not in titles:
+            titles.append(t)
+
+    if not titles:
+        return "📭 Query vuota."
+
+    if not isinstance(ep_count, int) or ep_count <= 0:
+        ep_count = 12  # last-resort fallback
+
+    log_console(f"Serie: {titles} S{season} ({ep_count} eps)")
+
+    # 1) dual season search (X first, then S), merge results
+    season_results: List[dict] = []
+    for t in titles:
+        season_results.extend(execute_search_amule(f"{t} {season}x ita"))
+        season_results.extend(execute_search_amule(f"{t} S{season:02d} ita"))
+
+    season_results = _merge_and_sort(season_results)
+    season_results = [r for r in season_results if _series_title_match_ok(r.get("name", ""), titles)]
+
+    # 2) build per-episode ranked lists
+    per_episode: Dict[int, List[dict]] = {ep: [] for ep in range(1, ep_count + 1)}
+    packs: List[dict] = []
+
+    for r in season_results:
+        name = r.get("name", "")
+        eps = _extract_episodes_from_name(name, season)
+        if eps:
+            for ep in eps:
+                if 1 <= ep <= ep_count:
+                    per_episode[ep].append(r)
+        elif _looks_like_season_pack(name, season):
+            packs.append(r)
+
+    # dedupe per episode and sort by score
+    for ep in per_episode:
+        per_episode[ep] = _merge_and_sort(per_episode[ep])
+
+    packs = _merge_and_sort(packs)
+
+    # 3) iterate episodes, skip Jellyfin, fallback per-episode only when needed
+    report: List[str] = [f"📺 **Serie:** {titles[0]} S{season} ({ep_count} eps)\n"]
+    downloaded_ids: Set[int] = set()
+
+    already_present = 0
+    downloaded_ok = 0
+    downloaded_fail = 0
+    missing = 0
+    consecutive_misses = 0
+
+    MAX_CONSEC_MISSES = 6
+    MAX_FALLBACK_EPISODES = 8
+    fallback_used = 0
+
+
+    for ep in range(1, ep_count + 1):
+        if consecutive_misses >= MAX_CONSEC_MISSES:
+            report.append("🛑 Stop: troppi episodi mancanti consecutivi.")
+            break
+
+        # Jellyfin check
+        if check_jellyfin_episode(titles, season, ep):
+            report.append(f"🔹 Ep {ep:02}: 🛡️ Già su Jellyfin")
+            already_present += 1
+            consecutive_misses = 0
+            continue
+
+        candidates = per_episode.get(ep) or []
+
+        # if empty, try season packs as candidates (but avoid re-downloading same pack)
+        if not candidates and packs:
+            candidates = packs
+
+        # fallback per-episode dual search only if still nothing at all in season-wide search
+        if not candidates and not season_results and fallback_used < MAX_FALLBACK_EPISODES:
+            tmp: List[dict] = []
+            for t in titles:
+                tmp.extend(execute_search_amule(f"{t} {season}x{ep:02d} ita"))
+                tmp.extend(execute_search_amule(f"{t} S{season:02d}E{ep:02d} ita"))
+            tmp = _merge_and_sort(tmp)
+            tmp = [r for r in tmp if _series_title_match_ok(r.get("name", ""), titles)]
+            if tmp:
+                candidates = tmp
+                per_episode[ep] = tmp  # store ranking
+            fallback_used += 1
+
+        if not candidates:
+            report.append(f"🔸 Ep {ep:02}: 📭")
+            missing += 1
+            consecutive_misses += 1
+            continue
+
+        best = candidates[0]
+        rid = best.get("id")
+
+        # avoid duplicate download attempts
+        if isinstance(rid, int) and rid in downloaded_ids:
+            report.append(f"🔹 Ep {ep:02}: 🧾 Già in coda — {best.get('name','')}")
+            downloaded_ok += 1
+            consecutive_misses = 0
+            continue
+
+        ok = execute_download_amule(rid)
+        if isinstance(rid, int):
+            downloaded_ids.add(rid)
+
+        if ok:
+            report.append(f"🔹 Ep {ep:02}: ✅ {best.get('name','')}")
+            downloaded_ok += 1
+            consecutive_misses = 0
+        else:
+            report.append(f"🔹 Ep {ep:02}: ⚠️ FALLITO — {best.get('name','')}")
+            downloaded_fail += 1
+            consecutive_misses += 1
+
+    # cache: store rankings (top 10 per episode) + top season results
+    cache_per_ep: Dict[str, List[dict]] = {}
+    for ep in range(1, ep_count + 1):
+        lst = per_episode.get(ep) or []
+        if lst:
+            cache_per_ep[f"{ep:02d}"] = lst[:10]
+
+    write_cache({
+        "kind": "series",
+        "query": clean_input,
+        "title": titles[0],
+        "season": season,
+        "episodes": ep_count,
+        "per_episode": cache_per_ep,
+        "season_results_top": season_results[:50],
+        "packs_top": packs[:10],
+    })
+
+    report.append("")
+    report.append(
+        f"📌 **Riepilogo:** già su Jellyfin {already_present} • download OK {downloaded_ok} • falliti {downloaded_fail} • mancanti {missing}"
+    )
+    report.append("🗂️ Classifiche per episodio salvate in cache (last_search_results.json).")
+
+    return "\n".join(report)
