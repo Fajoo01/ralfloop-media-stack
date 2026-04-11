@@ -27,3 +27,5 @@ debug_screenshots/
 mediaset_best/
 
 !.env.example
+
+!.env.example
