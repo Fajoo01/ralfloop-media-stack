@@ -441,8 +441,33 @@ def execute_search_amule(query):
         return []
 
 
-def execute_download_amule(rid):
+def _movie_download_quality_block_reason(selected_result=None, context=None):
+    """Fail closed on automatic movie downloads without an explicit HD signal."""
+    if not isinstance(context, dict) or str(context.get("kind") or "").strip().lower() != "movie":
+        return None
+    if not isinstance(selected_result, dict):
+        return "movie_missing_result_metadata"
+
+    name = str(selected_result.get("name") or selected_result.get("filename") or "").strip().lower()
+    if not name:
+        return "movie_missing_release_name"
+
+    tokens = set(re.findall(r"[a-z0-9]+", name))
+    if name.endswith(".avi") or ".avi" in name:
+        return "movie_legacy_avi"
+    if tokens & {"divx", "xvid", "dvdrip", "dvdscr", "screener", "r5", "480p", "576p", "360p"}:
+        return "movie_legacy_sd_release"
+    if not any(tag in name for tag in ("720p", "1080p", "2160p", "4k", "uhd")):
+        return "movie_missing_explicit_hd_resolution"
+    return None
+
+
+def execute_download_amule(rid, selected_result=None, context=None):
     s = get_peppule_settings()
+    quality_block = _movie_download_quality_block_reason(selected_result, context)
+    if quality_block:
+        log_console(f"⛔ Download film bloccato dal quality gate: {quality_block}")
+        return False
     try:
         r = requests.post(
             f"{s.amule_api_url.rstrip('/')}/download",

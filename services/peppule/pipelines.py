@@ -424,13 +424,36 @@ def pipeline_movie(cat, raw_query: str) -> str:
         "results": res[:50],
     })
 
-    best = res[0]
-    ok = execute_download_amule(best["id"])
+    # Automatic movie downloads must fail closed: do not let old AVI/DivX/DVD
+    # releases win merely because they have more sources.
+    downloadable = []
+    for cand in res:
+        name = _pick_name(cand).lower()
+        tokens = set(re.findall(r"[a-z0-9]+", name))
+        if name.endswith(".avi") or ".avi" in name:
+            continue
+        if tokens & {"divx", "xvid", "dvdrip", "dvdscr", "screener", "r5", "480p", "576p", "360p"}:
+            continue
+        if not any(tag in name for tag in ("720p", "1080p", "2160p", "4k", "uhd")):
+            continue
+        downloadable.append(cand)
+
+    best = downloadable[0] if downloadable else res[0]
+    ok = False
+    if downloadable:
+        ok = execute_download_amule(
+            best["id"],
+            selected_result=best,
+            context={"kind": "Movie", "title": title, "query": used_query},
+        )
 
     out: List[str] = []
     out.append(f"🔎 Risultati per **{title} ({year})**:\n")
     out.append(f"🧪 Query usata: `{used_query}`\n")
-    out.append(f"🚀 **AUTO-DL:** {'✅ OK' if ok else '⚠️ FALLITO'} — {best.get('name','')}\n")
+    if not downloadable:
+        out.append("⛔ **AUTO-DL BLOCCATO:** nessun candidato con qualità HD esplicita.\n")
+    else:
+        out.append(f"🚀 **AUTO-DL:** {'✅ OK' if ok else '⚠️ FALLITO'} — {best.get('name','')}\n")
 
     out.append("| N | File | MB | Fonti | Score |")
     out.append("|---|------|----|-------|-------|")
