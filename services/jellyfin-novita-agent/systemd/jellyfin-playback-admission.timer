@@ -1,0 +1,12 @@
+[Unit]
+Description=Run BaffoFlix playback admission guard every minute
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=1min
+AccuracySec=5s
+Persistent=true
+Unit=jellyfin-playback-admission.service
+
+[Install]
+WantedBy=timers.target

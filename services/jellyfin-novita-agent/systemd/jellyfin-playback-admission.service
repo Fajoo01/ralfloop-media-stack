@@ -1,0 +1,13 @@
+[Unit]
+Description=BaffoFlix playback admission guard for newly indexed media
+After=network-online.target jellyfin-novita-backend.service
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=sibilla-cumana
+WorkingDirectory=/home/sibilla-cumana/jellyfin-novita-agent
+ExecStart=/home/sibilla-cumana/jellyfin-novita-agent/.venv_backend/bin/python /home/sibilla-cumana/jellyfin-novita-agent/jellyfin_playback_admission.py --limit 100 --lookback-hours 24 --stable-seconds 45 --sample-seconds 3
+Nice=10
+IOSchedulingClass=best-effort
+IOSchedulingPriority=6
